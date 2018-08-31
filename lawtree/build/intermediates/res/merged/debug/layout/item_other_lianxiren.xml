@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="@dimen/size_10"
+    android:paddingRight="@dimen/size_10"
+    android:paddingTop="@dimen/size_10">
+
+    <ImageView
+        android:id="@+id/iv_icon_other"
+        android:layout_width="@dimen/size_30"
+        android:layout_height="@dimen/size_30"
+        android:layout_centerVertical="true"
+        android:src="@drawable/ic_wodequnzu" />
+
+    <LinearLayout
+        android:id="@+id/ll_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/size_13"
+        android:layout_toRightOf="@id/iv_icon_other"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_wbqy_other_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="张三三"
+            android:textColor="#ff000000"
+            android:textSize="@dimen/text_size_13" />
+
+        <TextView
+            android:id="@+id/tv_wbqy_other_position"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/size_4"
+            android:text="总经理"
+            android:textColor="#ffa7a7a7"
+            android:textSize="@dimen/text_size_11" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_wbqy_other_tel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="18792837484"
+        android:textColor="#ff000000"
+        android:textSize="@dimen/text_size_13" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_1"
+        android:layout_below="@id/ll_info"
+        android:layout_marginLeft="@dimen/size_13"
+        android:layout_marginTop="@dimen/size_10"
+        android:layout_toRightOf="@id/iv_icon_other"
+        android:background="#fff0f0f0" />
+</RelativeLayout>

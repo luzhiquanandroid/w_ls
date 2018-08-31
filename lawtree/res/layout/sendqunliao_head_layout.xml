@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rl_my_qiye"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingTop="@dimen/size_10">
+
+        <ImageView
+            android:id="@+id/iv_my_qy_icon"
+            android:layout_width="@dimen/size_30"
+            android:layout_height="@dimen/size_30"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size_10"
+            android:src="@drawable/ic_wodeqiye" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size_14"
+            android:layout_toRightOf="@id/iv_my_qy_icon"
+            android:text="我的企业"
+            android:textColor="#000000"
+            android:textSize="@dimen/text_size_14" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@id/iv_my_qy_icon"
+            android:layout_marginTop="@dimen/size_10"
+            android:layout_toRightOf="@id/iv_my_qy_icon"
+            android:background="#fff0f0f0" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_waibu_qiye"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size_10"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/iv_wb_qy_icon"
+            android:layout_width="@dimen/size_30"
+            android:layout_height="@dimen/size_30"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size_10"
+            android:src="@drawable/ic_waibuqiye" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size_14"
+            android:layout_toRightOf="@id/iv_wb_qy_icon"
+            android:text="外部企业"
+            android:textColor="#000000"
+            android:textSize="@dimen/text_size_14" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_7"
+        android:layout_marginTop="@dimen/size_6"
+        android:background="#F6F6F6" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:paddingBottom="@dimen/size_8"
+        android:paddingLeft="@dimen/size_10"
+        android:paddingTop="@dimen/size_8"
+        android:text="我的联系人"
+        android:textColor="#000000"
+        android:textSize="@dimen/text_size_14" />
+</LinearLayout>

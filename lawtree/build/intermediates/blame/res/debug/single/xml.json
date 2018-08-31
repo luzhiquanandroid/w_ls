@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\xml\\nrtc_setting_pref.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\xml\\nrtc_setting_pref.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\xml\\checkupdatelibrary_uri_grant.xml",
+        "source": "F:\\android_project\\w_ls\\updateapplibrary\\build\\intermediates\\bundles\\debug\\res\\xml\\checkupdatelibrary_uri_grant.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\xml\\bga_photo_picker_file_paths.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\01b8c76e2594c7bf482c6ef93854cf30\\res\\xml\\bga_photo_picker_file_paths.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\xml\\provider_paths.xml"
+    }
+]

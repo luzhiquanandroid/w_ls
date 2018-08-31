@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:119
+-keep class com.qysd.lawtree.NimApplication { <init>(...); }
+

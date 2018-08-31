@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_holder_dark.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\01b8c76e2594c7bf482c6ef93854cf30\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_holder_dark.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_camera.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\01b8c76e2594c7bf482c6ef93854cf30\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_camera.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\qrcode_default_grid_scan_line.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-qrcode-core-1.2.1.aar\\06adaffaa089683624b844f1edf4c3e5\\res\\mipmap-xxhdpi-v4\\qrcode_default_grid_scan_line.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_checked.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\01b8c76e2594c7bf482c6ef93854cf30\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_checked.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_arrow_down.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\01b8c76e2594c7bf482c6ef93854cf30\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_arrow_down.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_plus.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\01b8c76e2594c7bf482c6ef93854cf30\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_plus.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_delete.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\01b8c76e2594c7bf482c6ef93854cf30\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_delete.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\qrcode_default_scan_line.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-qrcode-core-1.2.1.aar\\06adaffaa089683624b844f1edf4c3e5\\res\\mipmap-xxhdpi-v4\\qrcode_default_scan_line.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_download.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\01b8c76e2594c7bf482c6ef93854cf30\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_download.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_normal.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\01b8c76e2594c7bf482c6ef93854cf30\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_cb_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\bga_pp_ic_holder_light.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\01b8c76e2594c7bf482c6ef93854cf30\\res\\mipmap-xxhdpi-v4\\bga_pp_ic_holder_light.png"
+    }
+]

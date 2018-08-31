@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_title" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_12"
+        android:background="#F6F6F6" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:paddingBottom="@dimen/size_14"
+        android:paddingLeft="@dimen/size_10"
+        android:paddingRight="@dimen/size_10"
+        android:paddingTop="@dimen/size_14">
+
+        <ImageView
+            android:layout_width="@dimen/size_30"
+            android:layout_height="@dimen/size_30"
+            android:src="@drawable/ic_shoujihaochazhao" />
+
+        <EditText
+            android:id="@+id/et_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/size_8"
+            android:background="@null"
+            android:hint="输入被添加人的手机号码（必填）"
+            android:inputType="phone"
+            android:padding="@dimen/size_5"
+            android:textColor="#A7A7A7"
+            android:textSize="@dimen/text_size_14" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_add_friend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/size_10"
+        android:layout_marginRight="@dimen/size_10"
+        android:layout_marginTop="@dimen/size_20"
+        android:background="@drawable/bg_add"
+        android:gravity="center"
+        android:paddingBottom="@dimen/size_8"
+        android:paddingTop="@dimen/size_8"
+        android:text="搜索"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_14" />
+</LinearLayout>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/size_52"
+        android:orientation="vertical">
+
+        <include layout="@layout/layout_title" />
+
+        <ImageView
+            android:layout_width="@dimen/size_64"
+            android:layout_height="@dimen/size_64"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="@dimen/size_18"
+            android:layout_marginTop="@dimen/size_15"
+            android:src="@drawable/ic_group" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/size_14"
+            android:background="#fff6f6f6" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/size_14"
+                android:layout_marginLeft="@dimen/size_10"
+                android:layout_marginTop="@dimen/size_14"
+                android:text="群名称"
+                android:textColor="#ff333333"
+                android:textSize="@dimen/text_size_14" />
+
+            <EditText
+                android:id="@+id/et_qun_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/size_14"
+                android:background="@null"
+                android:hint="请输入群名称"
+                android:padding="@dimen/size_2"
+                android:textColorHint="#ffcbcbcb"
+                android:textSize="@dimen/text_size_14" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/size_0.1"
+            android:background="#fff0f0f0" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/size_10"
+                android:layout_marginTop="@dimen/size_13"
+                android:text="群成员"
+                android:textColor="#ff333333"
+                android:textSize="@dimen/text_size_14" />
+
+            <TextView
+                android:id="@+id/tv_qun_person_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/size_10"
+                android:layout_marginTop="@dimen/size_13"
+                android:text="0人"
+                android:textColor="#ff333333"
+                android:textSize="@dimen/text_size_14" />
+        </RelativeLayout>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/size_10"
+            android:layout_marginRight="@dimen/size_10"
+            android:layout_marginTop="@dimen/size_9" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_commit"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/size_16"
+        android:layout_marginLeft="@dimen/size_10"
+        android:layout_marginRight="@dimen/size_10"
+        android:background="@drawable/bg_blue_radius"
+        android:gravity="center"
+        android:text="完成创建"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_14" />
+</RelativeLayout>

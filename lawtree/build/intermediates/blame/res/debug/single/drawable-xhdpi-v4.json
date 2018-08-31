@@ -1,0 +1,1318 @@
+[
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_switch_camera_pressed.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_switch_camera_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_member_delete_pressed.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_team_member_delete_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_delete_pressed.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\icon_delete_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_yaoqingzhuce.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_yaoqingzhuce.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_file_normal.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\message_plus_file_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_file_pressed.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\message_plus_file_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_disable_user_audio.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_disable_user_audio.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_ic_charge.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_ic_charge.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_unread_news_icon_normal.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_message_unread_news_icon_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_right_2.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_right_2.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_contact_checkbox_unchecked.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_contact_checkbox_unchecked.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_b_failure.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_b_failure.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_07.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_07.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_b_top_back.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_b_top_back.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_voice_normal.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_voice_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_volume_mute_pressed.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_volume_mute_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_switch_camera.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_switch_camera.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\efe5cad1c201981a5355daf34adc64c0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_saoyisao.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_saoyisao.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_ic_card.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_ic_card.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_37.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\room_cover_37.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\upsdk_btn_emphasis_normal_layer.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\base-2.5.3.302.aar\\76c5e94aedb6d29ef50d41680e503476\\res\\drawable-xhdpi-v4\\upsdk_btn_emphasis_normal_layer.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_black_list.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_black_list.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_open_rp.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_open_rp.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_btn_exit.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_btn_exit.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_05.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_05.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_lianxiren_search.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_lianxiren_search.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_add.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_voice_mute_pressed.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_voice_mute_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pop.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_pop.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_cameras_hover.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_cameras_hover.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_record_video.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_record_video.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_pwd_lock_icon.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\user_pwd_lock_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_qiye_v.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_qiye_v.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_keyboard_pressed.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_message_input_keyboard_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pop_two.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_pop_two.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_trade_detail.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_trade_detail.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_b_top_close.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_b_top_close.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_guess_normal.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\message_plus_guess_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_guess_pressed.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\message_plus_guess_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_plus_pressed.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_message_input_plus_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_avatar_default.webp",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_avatar_default.webp"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_loading.gif",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_loading.gif"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_b_bg_search_input.9.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_b_bg_search_input.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_rmb.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_rmb.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_view_holder_right_snapchat.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\message_view_holder_right_snapchat.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wodeqiye.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_wodeqiye.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_tianjiapengyou.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_tianjiapengyou.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_not_trade.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_not_trade.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_loaction_normal.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\btn_loaction_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_64.webp",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\room_cover_64.webp"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_cameras.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_cameras.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_top_back.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_top_back.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_video_play_icon_pressed.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_video_play_icon_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pro_complet_ing.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_pro_complet_ing.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_ic_check_not.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_ic_check_not.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_ic_menu_normal.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_ic_menu_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_p2p_info.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_p2p_info.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\master_icon.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\master_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_open_rp_arrow.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_open_rp_arrow.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_arrow_right.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_arrow_right.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\red_packet_open_tip.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res-rp\\drawable-xhdpi\\red_packet_open_tip.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_advanced_team.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_advanced_team.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_video_play_icon.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_video_play_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_microphone.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_microphone.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_58.webp",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\room_cover_58.webp"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_move.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_move.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_tip_normal.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\message_plus_tip_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\red_packet_rev_press.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res-rp\\drawable-xhdpi\\red_packet_rev_press.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_03.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_03.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_view_scissors.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\message_view_scissors.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_dark_back_icon.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\actionbar_dark_back_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_contact_select_dot_avatar.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_contact_select_dot_avatar.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_image_default.webp",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_image_default.webp"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_view_holder_left_snapchat_disable.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\message_view_holder_left_snapchat_disable.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_member_add_pressed.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_team_member_add_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_dark_logo_icon.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\actionbar_dark_logo_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_delete_normal.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\icon_delete_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_check_normal.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_check_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_multiport.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_multiport.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_00.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_00.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_more.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_more.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_left_3.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_left_3.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nick_name_icon.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\nick_name_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_member_delete_normal.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_team_member_delete_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_01.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_01.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_disable_user_audio_disable.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_disable_user_audio_disable.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_point.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_point.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\35ac12adb9ae28ba127556d4170b82e6\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_actionbar_search_dark_icon.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_actionbar_search_dark_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_view_paper.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\message_view_paper.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_ic_trans_fail.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_ic_trans_fail.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_switch.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_switch.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_view_holder_left_snapchat.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\message_view_holder_left_snapchat.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_ic_pin.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_ic_pin.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_keyboard.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_message_input_keyboard.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_02.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_02.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_contact_checkbox_checked_green.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_contact_checkbox_checked_green.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_open.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_open.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_avatar_group.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_avatar_group.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_disable_user_audio_pressed.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_disable_user_audio_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_admin_icon.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_team_admin_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_balance.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_balance.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_preview_unselected.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_picker_preview_unselected.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_btn_white.9.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_btn_white.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_camera_mute.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_camera_mute.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_lianxiren_default.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_lianxiren_default.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_new_message_notify.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_new_message_notify.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_lianxiren.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_lianxiren.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_02.jpg",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\welcome_02.jpg"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_36.webp",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\room_cover_36.webp"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_orignal_checked.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_picker_orignal_checked.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pro_complet.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_pro_complet.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_waibuqiye.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_waibuqiye.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_btn_red.9.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_btn_red.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_actionbar_white_back_icon.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_actionbar_white_back_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_voice_mute.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_voice_mute.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_video_capture_stop_btn.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_video_capture_stop_btn.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_b_success.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_b_success.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_view_rock.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\message_view_rock.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_xindehaoyou.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_xindehaoyou.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_xiaoxi.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_xiaoxi.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_image_normal.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_picker_image_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_50.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\room_cover_50.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_freeze.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_freeze.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_female.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\nim_female.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_robot.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_robot.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_my_computer.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_my_computer.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_logo.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\about_logo.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_ic_change.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_ic_change.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_account_icon.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\user_account_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_member_add_normal.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_team_member_add_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_check_pre.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_check_pre.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_trans_msg_rmb.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_trans_msg_rmb.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_verify_remind.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\icon_verify_remind.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pop_one.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_pop_one.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_beizhu.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_beizhu.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_01.jpg",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\welcome_01.jpg"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_task_manager_beizhu.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_task_manager_beizhu.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sousuo.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_sousuo.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_left_jt.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_left_jt.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_record_start.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_record_start.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_yingyong_pre.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_yingyong_pre.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_location_bk.webp",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_location_bk.webp"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_voice_pressed.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_message_input_voice_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_voice_normal_pressed.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_voice_normal_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionbar_white_logo_icon.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\actionbar_white_logo_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_video_capture_start_btn.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_video_capture_start_btn.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_music_icon_play.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_music_icon_play.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_logo.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_preview_disable.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_picker_preview_disable.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_recharge.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_recharge.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_icon_edit_delete.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_icon_edit_delete.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_actionbar_dark_logo_icon.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_actionbar_dark_logo_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_right_1.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_right_1.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_open_rp_top.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_open_rp_top.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_not_trade.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_not_trade.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_crown.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_crown.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\red_packet_rev_normal.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res-rp\\drawable-xhdpi\\red_packet_rev_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_loaction_pressed.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\btn_loaction_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_get_deposit.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_get_deposit.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_qiye_phone.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_qiye_phone.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_secure_setting.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_secure_setting.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_open_rp_close.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_open_rp_close.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_ic_rp.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_ic_rp.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_ic_pay_type_select.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_ic_pay_type_select.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_comp_task_error.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_comp_task_error.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_stat_notify_msg.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_stat_notify_msg.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_up.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_up.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_right_3.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_right_3.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_bar_black_more_icon.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\action_bar_black_more_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wode_pre.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_wode_pre.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_preview_pressed.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_picker_preview_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_volume_pressed.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_volume_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_volume_mute.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_volume_mute.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_emotion_pressed.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_message_input_emotion_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_ic_wx.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_ic_wx.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_orignal_normal.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_picker_orignal_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_lianxiren_pre.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_lianxiren_pre.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_date.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_date.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_camera_pressed.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_camera_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\35ac12adb9ae28ba127556d4170b82e6\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_multiport_detail.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_multiport_detail.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\efe5cad1c201981a5355daf34adc64c0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\network_grade_1.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\network_grade_1.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_main_tab_new_message_notify.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_main_tab_new_message_notify.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_close.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_b_btn_close.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_b_btn_close.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rmb.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rmb.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_hangup_pressed.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_hangup_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\admin_icon.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\admin_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_hangup.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_hangup.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_actionbar_dark_back_icon.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_actionbar_dark_back_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_ic_trans_wait.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_ic_trans_wait.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_task_manager.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_task_manager.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_image_selected.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_picker_image_selected.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_57.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\room_cover_57.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_moon_page_unselected.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_moon_page_unselected.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_group.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_group.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_picker_preview_normal.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_picker_preview_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_task_manager_data.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_task_manager_data.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_06.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_06.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wodequnzu.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_wodequnzu.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_ic_case.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_ic_case.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_wode.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_wode.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_shoujihaochazhao.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_shoujihaochazhao.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_49.webp",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\room_cover_49.webp"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_right_jt.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_right_jt.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\upsdk_cancel_normal.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\base-2.5.3.302.aar\\76c5e94aedb6d29ef50d41680e503476\\res\\drawable-xhdpi-v4\\upsdk_cancel_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_btn_exit.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_btn_exit.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_g_ic_failed_small.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_g_ic_failed_small.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_03.jpg",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\welcome_03.jpg"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\red_packet_send_press.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res-rp\\drawable-xhdpi\\red_packet_send_press.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_ic_arrow.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_ic_arrow.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_ic_pin.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_ic_pin.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_snapchat_normal.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\message_plus_snapchat_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_voice_normal.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_message_input_voice_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_add_card.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_add_card.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_jindu.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_jindu.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_red_packet_normal.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res-rp\\drawable-xhdpi\\message_plus_red_packet_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\efe5cad1c201981a5355daf34adc64c0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_bank_setting.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_bank_setting.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\red_packet_send_normal.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res-rp\\drawable-xhdpi\\red_packet_send_normal.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_send_qunliao.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_send_qunliao.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_checkbox_not_checked.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\nim_checkbox_not_checked.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\efe5cad1c201981a5355daf34adc64c0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_volume.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_volume.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_microphone_mute_pressed.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_microphone_mute_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_moon_page_selected.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_moon_page_selected.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_red_packet_pressed.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res-rp\\drawable-xhdpi\\message_plus_red_packet_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_open_rp_bg.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_open_rp_bg.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_default_portrait.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_default_portrait.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome_bg.jpg",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\welcome_bg.jpg"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_left_2.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_left_2.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_btn_close.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_btn_close.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_rts_send.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\icon_rts_send.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_ic_trans_fail.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_ic_trans_fail.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_icon_checked.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_icon_checked.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_male.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\nim_male.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\room_cover_72.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\room_cover_72.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\efe5cad1c201981a5355daf34adc64c0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_open_rp_top.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_open_rp_top.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_microphone_mute.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_microphone_mute.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_04.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_b_round_spinner_fade_04.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_room_announce.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\chat_room_announce.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_xiaoxi_pre.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_xiaoxi_pre.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_task_manager_date.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_task_manager_date.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_shanchu.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_shanchu.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_team_owner_icon.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_team_owner_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_emotion.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_message_input_emotion.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_ic_trans_succ.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_ic_trans_succ.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_comp_default.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_comp_default.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_camera_mute_pressed.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_camera_mute_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_tip_pressed.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\message_plus_tip_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_ic_alipay.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_ic_alipay.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_bg_add.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_bg_add.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\crown.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\crown.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_ic_trans_reback.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_ic_trans_reback.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_message_input_plus.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_message_input_plus.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\message_plus_snapchat_pressed.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\message_plus_snapchat_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_audio_animation_list_left_1.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_audio_animation_list_left_1.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\nim_ic_menu_pressed.png",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\nim_ic_menu_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\upsdk_cancel_pressed.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\base-2.5.3.302.aar\\76c5e94aedb6d29ef50d41680e503476\\res\\drawable-xhdpi-v4\\upsdk_cancel_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\action_bar_search_view_icon.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\action_bar_search_view_icon.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_w_account_info.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_w_account_info.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_bg_pswd.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_bg_pswd.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_yingyong.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\ic_yingyong.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\stat_sys_third_app_notify.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\push-internal-3.4.2.aar\\2dbb2a70882804a191675ec4e478aa1f\\res\\drawable-xhdpi-v4\\stat_sys_third_app_notify.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_camera.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_camera.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_ic_close.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_ic_close.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\t_avchat_microphone_pressed.png",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\t_avchat_microphone_pressed.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_crown.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_crown.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jrmf_rp_ic_card.png",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\jrmf_rp_ic_card.png"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\head_icon.png",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable-xhdpi\\head_icon.png"
+    }
+]

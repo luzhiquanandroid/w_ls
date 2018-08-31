@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/size_10"
+        android:paddingRight="@dimen/size_20"
+        android:paddingTop="@dimen/size_7">
+
+        <ImageView
+            android:id="@+id/iv_person"
+            android:layout_width="@dimen/size_30"
+            android:layout_height="@dimen/size_30"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_wodequnzu" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/size_13"
+            android:layout_toRightOf="@id/iv_person"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:text="宋江"
+                android:textColor="#000000"
+                android:textSize="@dimen/text_size_13" />
+
+            <TextView
+                android:id="@+id/tv_department"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:text="张记糖厂-总经理"
+                android:textSize="@dimen/text_size_11" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/size_0.1"
+                android:layout_marginTop="@dimen/size_7"
+                android:background="#F0F0F0" />
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/size_10">
+
+            <TextView
+                android:id="@+id/tv_add"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_no_bg_blue_line"
+                android:gravity="center"
+                android:paddingBottom="@dimen/size_4"
+                android:paddingLeft="@dimen/size_13"
+                android:paddingRight="@dimen/size_13"
+                android:paddingTop="@dimen/size_4"
+                android:text="添加"
+                android:textColor="#64A7FF"
+                android:textSize="@dimen/text_size_11"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/tv_yaoqing"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_no_bg_black_line"
+                android:gravity="center"
+                android:paddingBottom="@dimen/size_4"
+                android:paddingLeft="@dimen/size_13"
+                android:paddingRight="@dimen/size_13"
+                android:paddingTop="@dimen/size_4"
+                android:text="邀请"
+                android:textColor="#000000"
+                android:textSize="@dimen/text_size_11"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/tv_add_state"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="已添加"
+                android:textColor="#A7A7A7"
+                android:textSize="@dimen/text_size_11"
+                android:visibility="gone" />
+        </FrameLayout>
+
+    </RelativeLayout>
+</LinearLayout>

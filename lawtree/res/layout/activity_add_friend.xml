@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:poplar="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_title" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_28"
+        android:background="#F6F6F6"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/size_10"
+        android:text="添加好友"
+        android:textColor="#888888"
+        android:textSize="@dimen/text_size_11" />
+
+    <RelativeLayout
+        android:id="@+id/rl_add_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size_13"
+        android:paddingLeft="@dimen/size_10">
+
+        <ImageView
+            android:id="@+id/iv_icon"
+            android:layout_width="@dimen/size_30"
+            android:layout_height="@dimen/size_30"
+            android:src="@drawable/ic_shoujihaochazhao" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/size_14"
+            android:layout_toRightOf="@id/iv_icon"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="通过手机号添加好友"
+                android:textColor="#ff000000"
+                android:textSize="@dimen/text_size_13" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="通过手机号添加同事进企业"
+                android:textColor="#ffa7a7a7"
+                android:textSize="@dimen/text_size_11" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@id/iv_icon"
+            android:layout_marginTop="@dimen/size_13"
+            android:layout_toRightOf="@id/iv_icon"
+            android:background="#fff0f0f0" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size_13"
+        android:paddingBottom="@dimen/size_13"
+        android:paddingLeft="@dimen/size_10">
+
+        <ImageView
+            android:id="@+id/iv_icon_yaoqing"
+            android:layout_width="@dimen/size_30"
+            android:layout_height="@dimen/size_30"
+            android:src="@drawable/ic_yaoqingzhuce" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/size_14"
+            android:layout_toRightOf="@id/iv_icon_yaoqing"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="邀请注册"
+                android:textColor="#ff000000"
+                android:textSize="@dimen/text_size_13" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="在电脑端批量导入，效率更高"
+                android:textColor="#ffa7a7a7"
+                android:textSize="@dimen/text_size_11" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_28"
+        android:background="#F6F6F6"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/size_10"
+        android:text="通讯录添加"
+        android:textColor="#888888"
+        android:textSize="@dimen/text_size_11" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ExpandableListView
+            android:id="@+id/lv_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <com.qysd.lawtree.lawtreeview.fancyindexer.ui.FancyIndexer
+            android:id="@+id/bar"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            poplar:additionalTipOffset="40dip"
+            poplar:fontColor="#ffa0a0a0"
+            poplar:maxBezierHeight="150dip"
+            poplar:maxBezierWidth="180dip"
+            poplar:maxFontSize="56"
+            poplar:minFontSize="28"
+            poplar:tipFontSize="56"
+            poplar:widthOffset="@dimen/size_10" />
+
+        <TextView
+            android:id="@+id/tv_index_center"
+            android:layout_width="160dp"
+            android:layout_height="100dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/bg_index"
+            android:gravity="center"
+            android:text="A"
+            android:textColor="#FFFFFF"
+            android:textSize="36sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+</LinearLayout>

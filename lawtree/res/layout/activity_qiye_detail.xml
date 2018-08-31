@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_title" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/size_10"
+        android:layout_marginRight="@dimen/size_10"
+        android:layout_marginTop="@dimen/size_13"
+        android:background="@drawable/bg_no_bg_line"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/size_11"
+        android:paddingLeft="@dimen/size_8"
+        android:paddingRight="@dimen/size_11"
+        android:paddingTop="@dimen/size_19">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+
+                    <TextView
+                        android:id="@+id/tv_comp_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="河北省橡皮厂有限公司"
+                        android:textColor="#ff000000"
+                        android:textSize="@dimen/text_size_15" />
+
+                    <ImageView
+                        android:layout_width="@dimen/size_13"
+                        android:layout_height="@dimen/size_13"
+                        android:layout_marginLeft="@dimen/size_4"
+                        android:src="@drawable/ic_qiye_v" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/size_7">
+
+                    <TextView
+                        android:id="@+id/tv_gys"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bg_no_bg_blue_line"
+                        android:padding="@dimen/size_2"
+                        android:text="供应商"
+                        android:textColor="#64A7FF"
+                        android:textSize="@dimen/text_size_10"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:id="@+id/tv_kh"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/size_10"
+                        android:background="@drawable/bg_no_bg_yellow_line"
+                        android:padding="@dimen/size_2"
+                        android:text="客户"
+                        android:textColor="#F5A623"
+                        android:textSize="@dimen/text_size_10"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:id="@+id/tv_wx"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/size_10"
+                        android:background="@drawable/bg_no_bg_green_line"
+                        android:padding="@dimen/size_2"
+                        android:text="外协"
+                        android:textColor="#7CCB2D"
+                        android:textSize="@dimen/text_size_10"
+                        android:visibility="gone" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <com.qysd.uikit.common.ui.imageview.HeadImageView
+                android:id="@+id/iv_comp_logo"
+                android:layout_width="@dimen/size_38"
+                android:layout_height="@dimen/size_38"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/ic_comp_default" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_comp_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/size_23"
+                android:text="企业ID：0000001"
+                android:textColor="#ff888888"
+                android:textSize="@dimen/text_size_12" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/size_10"
+        android:layout_marginTop="@dimen/size_15"
+        android:text="业务联系人"
+        android:textColor="#ffa7a7a7"
+        android:textSize="@dimen/text_size_11" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/size_10"
+        android:layout_marginRight="@dimen/size_10">
+
+        <TextView
+            android:id="@+id/tv_comp_yw_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="张三"
+            android:textColor="#ff000000"
+            android:textSize="@dimen/text_size_14" />
+
+        <TextView
+            android:id="@+id/tv_comp_yw_tel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:drawablePadding="@dimen/size_4"
+            android:drawableRight="@drawable/ic_qiye_phone"
+            android:text="+86-18792837484"
+            android:textColor="#ff000000"
+            android:textSize="@dimen/text_size_14" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="@dimen/size_10"
+        android:layout_marginTop="@dimen/size_11"
+        android:background="#fff0f0f0" />
+
+    <RelativeLayout
+        android:id="@+id/rl_qita_lianxiren"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/size_10"
+        android:layout_marginRight="@dimen/size_10"
+        android:paddingBottom="@dimen/size_14"
+        android:paddingTop="@dimen/size_14">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="其他联系人"
+            android:textColor="#ff000000"
+            android:textSize="@dimen/text_size_14" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_right_jt" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="359dp"
+        android:layout_height="7dp"
+        android:background="#fff6f6f6" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/size_10"
+        android:layout_marginTop="@dimen/size_15"
+        android:text="分管部门"
+        android:textColor="#ffa7a7a7"
+        android:textSize="@dimen/text_size_11" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/size_10"
+        android:layout_marginRight="@dimen/size_10">
+
+        <TextView
+            android:id="@+id/tv_comp_dept"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="销售部"
+            android:textColor="#ff000000"
+            android:textSize="@dimen/text_size_14" />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="@dimen/size_10"
+        android:layout_marginTop="@dimen/size_11"
+        android:background="#fff0f0f0" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/size_10"
+        android:layout_marginTop="@dimen/size_15"
+        android:text="分管人员"
+        android:textColor="#ffa7a7a7"
+        android:textSize="@dimen/text_size_11" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/size_10"
+        android:layout_marginRight="@dimen/size_10">
+
+        <TextView
+            android:id="@+id/tv_comp_fg_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="张三"
+            android:textColor="#ff000000"
+            android:textSize="@dimen/text_size_14" />
+
+    </RelativeLayout>
+</LinearLayout>

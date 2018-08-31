@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_title" />
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/refresh"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="@dimen/size_14"
+        android:layout_weight="1">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/myqiye_recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+    <FrameLayout
+        android:id="@+id/isShow_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/ll_show_two"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/size_17"
+            android:layout_marginLeft="@dimen/size_11"
+            android:layout_marginRight="@dimen/size_11"
+            android:background="@drawable/bg_no_bg_blue_line"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/tv_add_person"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingBottom="@dimen/size_8"
+                android:paddingTop="@dimen/size_8"
+                android:text="添加员工"
+                android:textColor="#ff64a7ff"
+                android:textSize="@dimen/text_size_14" />
+
+            <TextView
+                android:id="@+id/tv_add_department"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#64A7FF"
+                android:gravity="center"
+                android:paddingBottom="@dimen/size_8"
+                android:paddingTop="@dimen/size_8"
+                android:text="添加子部门"
+                android:textColor="#ffffffff"
+                android:textSize="@dimen/text_size_14" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_show_one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/size_17"
+            android:layout_marginLeft="@dimen/size_11"
+            android:layout_marginRight="@dimen/size_11"
+            android:background="@drawable/bg_no_bg_blue_line"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/tv_add_yuangong"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#64A7FF"
+                android:gravity="center"
+                android:paddingBottom="@dimen/size_8"
+                android:paddingTop="@dimen/size_8"
+                android:text="添加员工"
+                android:textColor="#ffffffff"
+                android:textSize="@dimen/text_size_14" />
+
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>

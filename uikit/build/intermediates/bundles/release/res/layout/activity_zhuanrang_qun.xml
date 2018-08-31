@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:poplar="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_title" />
+
+    <ExpandableListView
+        android:id="@+id/lv_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.qysd.uikit.business.team.activity.lawtree.fancyindexer.ui.FancyIndexer
+        android:id="@+id/bar"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        poplar:additionalTipOffset="40dip"
+        poplar:fontColor="#ffa0a0a0"
+        poplar:maxBezierHeight="150dip"
+        poplar:maxBezierWidth="180dip"
+        poplar:maxFontSize="48"
+        poplar:minFontSize="24"
+        poplar:tipFontSize="56"
+        poplar:widthOffset="10dp" />
+</LinearLayout>

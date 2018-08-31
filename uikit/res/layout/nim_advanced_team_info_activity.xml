@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/app_bar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        app:elevation="0dp">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:contentInsetStart="0dp"
+            app:titleTextAppearance="@style/Toolbar.TitleText">
+
+            <TextView
+                android:id="@+id/tv_team_info"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="标题"
+                android:textColor="@color/black"
+                android:textSize="@dimen/text_size_16" />
+
+            <include layout="@layout/nim_action_bar_right_clickable_tv" />
+        </android.support.v7.widget.Toolbar>
+    </android.support.design.widget.AppBarLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_1"
+        android:background="#fff0f0f0" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:fillViewport="true"
+        android:scrollbarStyle="outsideOverlay">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.qysd.uikit.common.ui.imageview.HeadImageView
+                android:id="@+id/team_head_image"
+                android:layout_width="64dip"
+                android:layout_height="64dip"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="11dp" />
+
+            <TextView
+                android:id="@+id/team_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="6dp"
+                android:text="群的名字"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="14dp"
+                android:layout_marginTop="14dp"
+                android:background="#fff6f6f6" />
+
+            <RelativeLayout
+                android:id="@+id/rl_qun_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="14dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp">
+
+                <TextView
+                    android:layout_width="45dp"
+                    android:layout_height="20dp"
+                    android:text="群成员"
+                    android:textColor="#ff333333"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:id="@+id/tv_team_member"
+                    android:layout_width="25dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentRight="true"
+                    android:text="0人"
+                    android:textColor="#ffa7a7a7"
+                    android:textSize="14dp" />
+            </RelativeLayout>
+
+            <com.qysd.uikit.business.team.ui.TeamInfoGridView
+                android:id="@+id/team_member_grid_view"
+                style="@style/grid_view"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="center"
+                android:numColumns="5"
+                android:paddingBottom="25dip"
+                android:paddingLeft="12dip"
+                android:paddingRight="12dip"
+                android:paddingTop="16dip"
+                android:verticalSpacing="16dip" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/text_size_10"
+                android:background="#fff0f0f0" />
+
+            <RelativeLayout
+                android:id="@+id/rl_add_new_member"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="添加新成员"
+                    android:textColor="#ff333333"
+                    android:textSize="14dp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_right_jt" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="14dp"
+                android:background="#fff6f6f6" />
+
+            <RelativeLayout
+                android:id="@+id/rl_liaotian_jilu"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="查看聊天内容"
+                    android:textColor="#ff333333"
+                    android:textSize="14dp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_right_jt" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/text_size_10"
+                android:background="#fff0f0f0" />
+
+            <RelativeLayout
+                android:id="@+id/rl_xiaoxi_state"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="消息免打扰"
+                    android:textColor="#ff333333"
+                    android:textSize="14dp" />
+
+                <ImageView
+                    android:id="@+id/iv_xiaoxi_state"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_open" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginLeft="@dimen/text_size_10"
+                android:background="#fff0f0f0" />
+
+            <RelativeLayout
+                android:id="@+id/rl_qun_nicheng"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="我在群中昵称"
+                    android:textColor="#ff333333"
+                    android:textSize="14dp" />
+
+                <ImageView
+                    android:id="@+id/iv_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_right_jt" />
+
+                <TextView
+                    android:id="@+id/tv_qun_nicheng"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="6dp"
+                    android:layout_toLeftOf="@id/iv_name"
+                    android:text="未设置"
+                    android:textColor="#ffa7a7a7"
+                    android:textSize="12sp" />
+
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="14dp"
+                android:background="#fff6f6f6" />
+
+            <RelativeLayout
+                android:id="@+id/rl_clear_message"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="清空聊天记录"
+                    android:textColor="#ff333333"
+                    android:textSize="14dp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_right_jt" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="14dp"
+                android:background="#fff6f6f6" />
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/tv_tc"
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:gravity="center_horizontal"
+                    android:paddingBottom="12dp"
+                    android:paddingTop="12dp"
+                    android:text="退出群聊"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/tv_zhuanrang_tc"
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:gravity="center_horizontal"
+                    android:paddingBottom="12dp"
+                    android:paddingTop="12dp"
+                    android:text="转让并退出群聊"
+                    android:visibility="gone" />
+            </FrameLayout>
+
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recycler_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone" />
+        </LinearLayout>
+
+    </ScrollView>
+
+    <ScrollView
+        style="@style/scroll_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/color_background"
+        android:fillViewport="true"
+        android:scrollbarStyle="outsideOverlay"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/team_info_header"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dip"
+                android:layout_marginLeft="25dip"
+                android:layout_marginRight="15dip"
+                android:layout_marginTop="20dip">
+
+                <com.qysd.uikit.common.ui.imageview.HeadImageView
+                    android:layout_width="50dip"
+                    android:layout_height="50dip" />
+                <!--android:layout_toRightOf="@id/team_head_image"-->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dip"
+                    android:layout_marginTop="5dip"
+
+                    android:text="Team Name"
+                    android:textColor="@color/color_black_333333"
+                    android:textSize="@dimen/text_size_17" />
+
+                <!--
+                android:layout_alignLeft="@id/team_name"
+                    android:layout_below="@id/team_name"
+                -->
+                <TextView
+                    android:id="@+id/team_id"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginTop="8dip"
+                    android:text="creator"
+                    android:textColor="@color/color_grey_999999"
+                    android:textSize="@dimen/text_size_14" />
+
+                <TextView
+                    android:id="@+id/temp_text_with"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@id/team_id"
+                    android:layout_marginLeft="12dip"
+                    android:layout_toRightOf="@id/team_id"
+                    android:text="于"
+                    android:textColor="@color/color_grey_999999"
+                    android:textSize="@dimen/text_size_13" />
+
+                <TextView
+                    android:id="@+id/team_create_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@id/temp_text_with"
+                    android:layout_toRightOf="@id/temp_text_with"
+                    android:text="2015-02-22"
+                    android:textColor="@color/color_grey_999999"
+                    android:textSize="@dimen/text_size_13" />
+
+                <TextView
+                    android:id="@+id/temp_text_create"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@id/team_create_time"
+                    android:layout_toRightOf="@id/team_create_time"
+                    android:text="创建"
+                    android:textColor="@color/color_grey_999999"
+                    android:textSize="@dimen/text_size_13" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/nim_arrow_right" />
+            </RelativeLayout>
+
+            <include
+                android:id="@+id/team_mime_layout"
+                layout="@layout/nim_advanced_team_info_divider_item" />
+
+            <include
+                android:id="@+id/team_memeber_layout"
+                layout="@layout/nim_advanced_team_info_divider_item" />
+
+            <com.qysd.uikit.business.team.ui.TeamInfoGridView
+                style="@style/grid_view"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="center"
+                android:numColumns="5"
+                android:paddingBottom="25dip"
+                android:paddingLeft="12dip"
+                android:paddingRight="12dip"
+                android:paddingTop="16dip"
+                android:verticalSpacing="16dip" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="20dp"
+                android:orientation="vertical">
+
+                <include
+                    android:id="@+id/team_name_layout"
+                    layout="@layout/nim_advanced_team_info_divider_item" />
+
+                <include
+                    android:id="@+id/team_introduce_layout"
+                    layout="@layout/nim_advanced_team_info_divider_item" />
+
+                <include
+                    android:id="@+id/team_announcement_layout"
+                    layout="@layout/nim_advanced_team_info_divider_item" />
+
+                <include
+                    android:id="@+id/team_extension_layout"
+                    layout="@layout/nim_advanced_team_info_divider_item" />
+
+                <include
+                    android:id="@+id/team_notification_config_layout"
+                    layout="@layout/nim_advanced_team_info_divider_item" />
+            </LinearLayout>
+
+
+            <include
+                android:id="@+id/team_authentication_layout"
+                layout="@layout/nim_advanced_team_info_divider_item" />
+
+            <include
+                android:id="@+id/team_invite_layout"
+                layout="@layout/nim_advanced_team_info_divider_item" />
+
+            <include
+                android:id="@+id/team_info_update_layout"
+                layout="@layout/nim_advanced_team_info_divider_item" />
+
+            <include
+                android:id="@+id/team_invitee_authen_layout"
+                layout="@layout/nim_advanced_team_info_divider_item" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

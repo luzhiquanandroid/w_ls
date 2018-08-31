@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.qysd.lawtree"
+    android:installLocation="auto"
+    android:versionCode="46"
+    android:versionName="4.9.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="26" />
+
+    <!-- 加入应用需要的权限 -->
+    <!-- 网络相关 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+
+    <!-- 读写文件 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- 定位相关 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+
+    <!-- 多媒体 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <!-- 手机状态 -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <!-- SDK权限申明, 第三方APP接入时，请将com.netease.nim.demo替换为自己的包名 -->
+    <!-- 和下面的uses-permission一起加入到你的AndroidManifest文件中。 -->
+    <permission
+        android:name="com.qysd.lawtree.permission.RECEIVE_MSG"
+        android:protectionLevel="signature" />
+
+    <!-- 接受SDK消息广播权限， 第三方APP接入时，请将com.netease.nim.demo替换为自己的包名 -->
+    <uses-permission android:name="com.qysd.lawtree.permission.RECEIVE_MSG" />
+
+    <!-- 小米推送 -->
+    <permission
+        android:name="com.qysd.lawtree.permission.MIPUSH_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.qysd.lawtree.permission.MIPUSH_RECEIVE" />
+    <!-- 魅族推送 -->
+
+
+    <!-- 兼容flyme5.0以下版本，魅族内部集成pushSDK必填，不然无法收到消息 -->
+    <uses-permission android:name="com.meizu.flyme.push.permission.RECEIVE" />
+
+    <permission
+        android:name="com.qysd.lawtree.push.permission.MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.qysd.lawtree.push.permission.MESSAGE" />
+    <!-- 兼容flyme3.0配置权限 -->
+    <uses-permission android:name="com.meizu.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="com.qysd.lawtree.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.qysd.lawtree.permission.C2D_MESSAGE" />
+
+    <permission
+        android:name="com.qysd.lawtree.permission.JPUSH_MESSAGE"
+        android:protectionLevel="signature" /> <!-- Required  一些系统要求的权限，如访问网络等 -->
+    <uses-permission android:name="com.qysd.lawtree.permission.JPUSH_MESSAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" /> <!-- Optional for location -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- for android -->
+    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> -->
+    <!-- <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> -->
+    <!-- <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" /> -->
+    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
+    <!-- for Samsung -->
+    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
+    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
+    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
+    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
+    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
+    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- for ZUK -->
+    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- for OPPO -->
+    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- for EvMe -->
+    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.flash"
+        android:required="false" />
+
+    <application
+        android:name="com.qysd.lawtree.NimApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar" >
+
+        <!-- 如果IDE是Eclipse，此处可将build.gradle中的AMAP_KEY定义拷贝过来。 -->
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="ee20324fba1c7f4ad7a4a207e7f08e8d" />
+
+        <!-- com.qysd.appKey -->
+        <meta-data
+            android:name="com.netease.nim.appKey"
+            android:value="dfb9eccbf847964bbad6df4c8dc1d932" />
+
+        <uses-library
+            android:name="com.google.android.maps"
+            android:required="false" />
+
+        <!-- 金融魔方SDK 渠道id以及红包名称 -->
+        <meta-data
+            android:name="JRMF_PARTNER_NAME"
+            android:value="云信红包" />
+
+        <!-- 全面屏配置 -->
+        <meta-data
+            android:name="android.max_aspect"
+            android:value="2.1" />
+
+        <!-- 导航页 -->
+        <activity
+            android:name="com.qysd.lawtree.main.activity.WelcomeActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:hardwareAccelerated="true"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/WelcomeEntranceActionBarTheme"
+            android:windowSoftInputMode="adjustPan" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.MULTIWINDOW_LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 主界面 -->
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.BottomTabLayoutActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:hardwareAccelerated="true"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.qysd.lawtree.main.activity.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.main.activity.MainActivity3"
+            android:configChanges="keyboardHidden|orientation"
+            android:hardwareAccelerated="true"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 多端登录管理 -->
+        <activity
+            android:name="com.qysd.lawtree.main.activity.MultiportActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+
+        <!-- 登录界面 -->
+        <activity
+            android:name="com.qysd.lawtree.login.LoginActivity"
+            android:configChanges="orientation"
+            android:label="@string/login"
+            android:screenOrientation="portrait"
+            android:theme="@style/LoginTheme"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+
+        <!-- 注册界面 -->
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.RegisterActivity"
+            android:configChanges="orientation"
+            android:label="注册界面"
+            android:screenOrientation="portrait" />
+        <!-- 注册设置密码界面 -->
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.RegisterPassActivity"
+            android:configChanges="orientation"
+            android:label="注册设置密码界面"
+            android:screenOrientation="portrait" />
+        <!-- 忘记密码界面 -->
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.FogetPasswordActivity"
+            android:configChanges="orientation"
+            android:label="忘记密码界面"
+            android:screenOrientation="portrait" />
+        <!-- 重置密码界面 -->
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.ResetPasswordActivity"
+            android:configChanges="orientation"
+            android:label="重置密码界面"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.AccountAndSecurityActivity"
+            android:configChanges="orientation"
+            android:label="账号与安全界面"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.UpdatePasswordActivity"
+            android:configChanges="orientation"
+            android:label="修改密码界面"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.ScanZxingCode"
+            android:configChanges="orientation"
+            android:label="扫一扫二维码"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.MyZxingPic"
+            android:configChanges="orientation"
+            android:label="我的二维码"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.RepertoryActivity"
+            android:configChanges="orientation"
+            android:label="库存管理"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.FindRepertoryActivity"
+            android:configChanges="orientation"
+            android:label="查找库存商品"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.OrderActivity"
+            android:configChanges="orientation"
+            android:label="订单管理"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.OrderDetailActivity"
+            android:configChanges="orientation"
+            android:label="订单详情"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.PinListActivity"
+            android:configChanges="orientation"
+            android:label="销单管理"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.MarketingManagementActivity"
+            android:configChanges="orientation"
+            android:label="销单管理"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.XiaoDanDetailActivity"
+            android:configChanges="orientation"
+            android:label="销单详情"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.MyBusinessActivity"
+            android:configChanges="orientation"
+            android:label="我的企业"
+            android:screenOrientation="portrait" />
+        <!-- 关于 -->
+        <activity
+            android:name="com.qysd.lawtree.main.activity.AboutActivity"
+            android:configChanges="orientation"
+            android:label="@string/about"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="com.qysd.lawtree.main.activity.SettingsActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name="com.qysd.lawtree.main.activity.NoDisturbActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="com.qysd.lawtree.contact.activity.AddFriendActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="com.qysd.lawtree.contact.activity.UserProfileActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="com.qysd.lawtree.contact.activity.UserProfileSettingActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="com.qysd.lawtree.contact.activity.UserProfileEditItemActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="com.qysd.lawtree.contact.activity.BlackListActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+
+        <!-- 文件管理器 -->
+        <activity
+            android:name="com.qysd.lawtree.file.browser.FileBrowserActivity"
+            android:configChanges="orientation"
+            android:label="@string/file_browser"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+        <activity
+            android:name="com.qysd.lawtree.main.activity.SystemMessageActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.lawtree.main.activity.CustomNotificationActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.lawtree.session.activity.MessageHistoryActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.lawtree.session.activity.MessageInfoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.lawtree.team.activity.AdvancedTeamSearchActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.lawtree.team.activity.AdvancedTeamJoinActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.lawtree.main.activity.TeamListActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustPan" />
+
+        <!-- 全局搜索 -->
+        <activity
+            android:name="com.qysd.lawtree.main.activity.GlobalSearchActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/global_search_bg"
+            android:windowSoftInputMode="stateUnspecified" />
+        <activity
+            android:name="com.qysd.lawtree.main.activity.GlobalSearchDetailActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.qysd.lawtree.main.activity.GlobalSearchDetailActivity2"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <!-- 查看阅后即焚 -->
+        <activity
+            android:name="com.qysd.lawtree.session.activity.WatchSnapChatPictureActivity"
+            android:configChanges="keyboardHidden"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <!-- 下载文件 -->
+        <activity
+            android:name="com.qysd.lawtree.session.activity.FileDownloadActivity"
+            android:configChanges="keyboardHidden"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <!-- map -->
+        <activity
+            android:name="com.qysd.lawtree.location.activity.LocationAmapActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/location_map"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.qysd.lawtree.location.activity.NavigationAmapActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/location_navigate"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <!-- 白板 -->
+        <activity
+            android:name="com.qysd.lawtree.rts.activity.RTSActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <!-- 消息历史搜索 -->
+        <activity
+            android:name="com.qysd.lawtree.session.search.SearchMessageActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/global_search_bg"
+            android:windowSoftInputMode="adjustPan|stateUnspecified" />
+        <activity
+            android:name="com.qysd.lawtree.session.search.DisplayMessageActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+
+        <!-- 聊天室 -->
+        <activity
+            android:name="com.qysd.lawtree.chatroom.activity.ChatRoomActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.lawtree.jsbridge.JsBridgeActivity"
+            android:label="@string/js_bridge"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden" />
+
+        <!-- 机器人 -->
+        <activity
+            android:name="com.qysd.lawtree.main.activity.RobotListActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.qysd.lawtree.contact.activity.RobotProfileActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <!-- 律树自己的activity -->
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.AddFriendActivity"
+            android:label="添加好友"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.AddSearchPhoneActivity"
+            android:label="手机号添加"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.MyQiYeActivity"
+            android:label="我的企业"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.WaiBuQiYeActivity"
+            android:label="外部企业"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.WaiBuQiyeDetailActivity"
+            android:label="企业详情"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.WaiBuOtherLianxirenActivity"
+            android:label="外部企业其他联系人"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.LianXiRenDetailActivity"
+            android:label="联系人详情"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.SendQunLiaoActivity"
+            android:label="发起群聊"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.QunLiaoMyQiyeActivity"
+            android:label="发起群聊我的企业"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.QunLiaoWaibuQiyeActivity"
+            android:label="发起群聊外部企业"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.MyQiYeOneActivity"
+            android:label="我的企业一级页面"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.MyQiYeThreeActivity"
+            android:label="我的企业三级页面"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.MyQiYeTwoActivity"
+            android:label="我的企业二级页面"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.AddPersonActivity"
+            android:label="添加员工"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.AddDepartmentActivity"
+            android:label="添加子部门"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.TeamGroupActivity"
+            android:label="我的群组"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.SearchActivity"
+            android:label="搜索页面"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.NewFriendActivity"
+            android:label="新的好友"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.QunLiaoSettingActivity"
+            android:label="聊天设置"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.SearchQyActivity"
+            android:label="搜索企业"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.GuideActivity"
+            android:label="引导页"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.DistanceLoginHandleActivity"
+            android:exported="true"
+            android:label="异地登录的透明"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.ShenChanPlanActivity"
+            android:label="生产计划"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.TaskManagerActivity"
+            android:label="任务管理"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.ShenChanDateActivity"
+            android:label="生产排单"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.ScPlanDetailActivity"
+            android:label="生产计划详情"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.ScTaskManagerDetailActivity"
+            android:label="生产管理详情"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.CompleteQueryActivity"
+            android:label="生产管理详情"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.RoleSelectActivity"
+            android:label="角色选择"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.lawtree.lawtreeactivity.GongXuSelectActivity"
+            android:label="工序选择"
+            android:screenOrientation="portrait" />
+        <!-- 声明云信后台服务 -->
+        <service
+            android:name="com.netease.nimlib.service.NimService"
+            android:process=":core" />
+
+        <!-- 运行后台辅助服务 -->
+        <service
+            android:name="com.netease.nimlib.service.NimService$Aux"
+            android:process=":core" />
+
+        <!-- 声明云信后台辅助服务 -->
+        <service
+            android:name="com.netease.nimlib.job.NIMJobService"
+            android:exported="true"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:process=":core" />
+
+        <!-- 云信SDK的监视系统启动和网络变化的广播接收器，用户开机自启动以及网络变化时候重新登录 -->
+        <receiver
+            android:name="com.netease.nimlib.service.NimReceiver"
+            android:exported="false"
+            android:process=":core" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 云信进程间通信receiver -->
+        <receiver android:name="com.netease.nimlib.service.ResponseReceiver" />
+
+        <!-- 云信进程间通信service -->
+        <service android:name="com.netease.nimlib.service.ResponseService" />
+
+        <!-- 云信进程间通信provider -->
+        <!-- android:authorities="{包名}.ipc.provider", 请将com.netease.nim.demo替换为自己的包名 -->
+        <provider
+            android:name="com.netease.nimlib.ipc.NIMContentProvider"
+            android:authorities="com.qysd.lawtree.ipc.provider"
+            android:exported="false"
+            android:process=":core" />
+
+        <!-- 申明自定义通知的广播接收器，第三方APP集成时，action中的com.netease.nim.demo请替换为自己的包名 -->
+        <!-- 需要权限申明 <uses-permission android:name="com.netease.nim.demo.permission.RECEIVE_MSG"/> -->
+        <receiver
+            android:name="com.qysd.lawtree.receiver.CustomNotificationReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.qysd.lawtree.ACTION.RECEIVE_CUSTOM_NOTIFICATION" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 申明白板会话的广播接收器，第三方APP集成时，action中的com.netease.nim.demo请替换为自己的包名 -->
+        <receiver
+            android:name="com.netease.nimlib.receiver.RTSBroadcastReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.qysd.lawtree.ACTION.RECEIVE_RTS_NOTIFICATION" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 小米推送配置 -->
+        <service
+            android:name="com.xiaomi.push.service.XMJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:process=":mixpush" />
+        <service
+            android:name="com.xiaomi.push.service.XMPushService"
+            android:enabled="true"
+            android:process=":mixpush" />
+
+        <receiver
+            android:name="com.xiaomi.push.service.receivers.PingReceiver"
+            android:exported="false"
+            android:process=":mixpush" >
+            <intent-filter>
+                <action android:name="com.xiaomi.push.PING_TIMER" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.xiaomi.push.service.receivers.NetworkStatusReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.xiaomi.mipush.sdk.PushMessageHandler"
+            android:enabled="true"
+            android:exported="true" />
+        <service
+            android:name="com.xiaomi.mipush.sdk.MessageHandleService"
+            android:enabled="true" />
+
+        <receiver
+            android:name="com.netease.nimlib.mixpush.mi.MiPushReceiver"
+            android:exported="true" >
+            <intent-filter android:priority="0x7fffffff" >
+                <action android:name="com.xiaomi.mipush.RECEIVE_MESSAGE" />
+                <action android:name="com.xiaomi.mipush.MESSAGE_ARRIVED" />
+                <action android:name="com.xiaomi.mipush.ERROR" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 华为推送配置 -->
+
+        <meta-data
+            android:name="com.huawei.hms.client.appid"
+            android:value="100006871" />
+
+        <provider
+            android:name="com.huawei.hms.update.provider.UpdateProvider"
+            android:authorities="com.qysd.lawtree.hms.update.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" />
+
+        <!-- 第三方相关 :接收Push消息（注册、Push消息、Push连接状态）广播 -->
+        <receiver android:name="com.netease.nimlib.mixpush.hw.HWPushReceiver" >
+            <intent-filter android:priority="0x7fffffff" >
+
+                <!-- 必须,用于接收token -->
+                <action android:name="com.huawei.android.push.intent.REGISTRATION" />
+                <!-- 必须，用于接收消息 -->
+                <action android:name="com.huawei.android.push.intent.RECEIVE" />
+                <!-- 可选，用于点击通知栏或通知栏上的按钮后触发onEvent回调 -->
+                <action android:name="com.huawei.android.push.intent.CLICK" />
+                <!-- 可选，查看push通道是否连接，不查看则不需要 -->
+                <action android:name="com.huawei.intent.action.PUSH_STATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="CS_cloud_ablitity"
+                android:value="successRateAnalytics" />
+        </receiver>
+        <receiver android:name="com.huawei.hms.support.api.push.PushEventReceiver" >
+            <intent-filter>
+
+                <!-- 接收通道发来的通知栏消息，兼容老版本Push -->
+                <action android:name="com.huawei.intent.action.PUSH" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 高德地图 -->
+        <service android:name="com.amap.api.location.APSService" />
+
+        <!-- fcm -->
+        <service android:name="com.netease.nimlib.mixpush.fcm.FCMTokenService" >
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <!-- 设置收到 fcm 通知展示的图标和颜色 -->
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@drawable/ic_stat_notify_msg" />
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:resource="@color/color_blue_3a9efb" />
+
+        <!-- meizu -->
+        <receiver android:name="com.netease.nimlib.mixpush.mz.MZPushReceiver" >
+            <intent-filter android:priority="0x7fffffff" >
+
+                <!-- 接收push消息 -->
+                <action android:name="com.meizu.flyme.push.intent.MESSAGE" />
+                <!-- 接收register消息 -->
+                <action android:name="com.meizu.flyme.push.intent.REGISTER.FEEDBACK" />
+                <!-- 接收unregister消息 -->
+                <action android:name="com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK" />
+                <!-- 兼容低版本Flyme3推送服务配置 -->
+                <action android:name="com.meizu.c2dm.intent.REGISTRATION" />
+                <action android:name="com.meizu.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.qysd.lawtree" />
+            </intent-filter>
+        </receiver>
+
+        <!-- 异地登录的广播 -->
+        <receiver android:name="com.qysd.lawtree.lawtreereceiver.DistanceLoginReceiver" >
+            <intent-filter>
+                <action android:name="com.qysd.lawtree.receiver.DistanceLoginReceiver.action.MYACTION" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.qysd.lawtree.lawtreereceiver.JPushReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTRATION" /> <!-- Required  用户注册SDK的intent -->
+                <action android:name="cn.jpush.android.intent.MESSAGE_RECEIVED" /> <!-- Required  用户接收SDK消息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED" /> <!-- Required  用户接收SDK通知栏信息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_OPENED" /> <!-- Required  用户打开自定义通知栏的intent -->
+                <action android:name="cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK" /> <!-- Optional 用户接受Rich Push Javascript 回调函数的intent -->
+                <action android:name="cn.jpush.android.intent.CONNECTION" /> <!-- 接收网络变化 连接/断开 since 1.6.3 -->
+                <category android:name="com.qysd.lawtree" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.qysd.lawtree.lawtreereceiver.JPushActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent" >
+            <intent-filter>
+                <action android:name="jpush.testAction" />
+
+                <category android:name="jpush.testCategory" />
+            </intent-filter>
+        </activity>
+        <!-- 极光推送User defined.  For test only  用户自定义的广播接收器 -->
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="c3b7877640734c92138bf0a8becce1df29155681" />
+
+        <provider
+            android:name="com.crashlytics.android.CrashlyticsInitProvider"
+            android:authorities="com.qysd.lawtree.crashlyticsinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.qysd.uikit.support.glide.NIMGlideModule"
+            android:value="GlideModule" /> <!-- 会话窗口 -->
+        <!--
+             UI组件中包含了语音选文字功能，该界面是全屏显示，为了视觉上的美观，该界面主题ActionBar使用Overlay模式。
+             如果开发者不需要该功能或效果，使用普通主题即可。 同时，还需要将message_activity.xml这个layout中的根节点的paddingTop去掉。
+        -->
+        <activity
+            android:name="com.qysd.uikit.business.session.activity.P2PMessageActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.uikit.business.session.activity.TeamMessageActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" /> <!-- 群聊 -->
+        <activity
+            android:name="com.qysd.uikit.business.team.activity.NormalTeamInfoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.uikit.business.team.activity.AdvancedTeamInfoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.uikit.business.team.activity.AdvancedTeamMemberActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.uikit.business.team.activity.AdvancedTeamAnnounceActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.uikit.business.team.activity.AdvancedTeamMemberInfoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.uikit.business.team.activity.AdvancedTeamNicknameActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.uikit.business.team.activity.AdvancedTeamCreateAnnounceActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.uikit.business.team.activity.TeamPropertySettingActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" /> <!-- 联系人选择器 -->
+        <activity
+            android:name="com.qysd.uikit.business.contact.selector.activity.ContactSelectActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/contact_selector"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustPan" /> <!-- @ 选择器 -->
+        <activity
+            android:name="com.qysd.uikit.business.ait.selector.AitContactSelectorActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" /> <!-- 照片选择 -->
+        <activity
+            android:name="com.qysd.uikit.common.media.picker.activity.PickImageActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.qysd.uikit.common.media.picker.activity.CropImageActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.qysd.uikit.common.media.picker.activity.PickerAlbumActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.qysd.uikit.common.media.picker.activity.PickerAlbumPreviewActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.qysd.uikit.common.media.picker.activity.PreviewImageFromLocalActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.uikit.common.media.picker.activity.PreviewImageFromCameraActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/input_panel_take"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" /> <!-- 视频 -->
+        <activity
+            android:name="com.qysd.uikit.business.session.activity.CaptureVideoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.qysd.uikit.business.session.activity.WatchVideoActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/video_play"
+            android:theme="@style/DarkTheme" /> <!-- 查看大图 -->
+        <activity
+            android:name="com.qysd.uikit.business.session.activity.WatchMessagePictureActivity"
+            android:configChanges="keyboardHidden"
+            android:theme="@style/DarkTheme" />
+        <activity
+            android:name="com.qysd.uikit.business.session.activity.WatchPicAndVideoMenuActivity"
+            android:configChanges="keyboardHidden"
+            android:theme="@style/DarkTheme" /> <!-- 查看聊天内容 -->
+        <activity
+            android:name="com.qysd.uikit.business.team.activity.MessageHistoryActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.uikit.business.team.activity.lawtree.search.SearchMessageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.uikit.business.team.activity.lawtree.search.DisplayMessageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.uikit.business.team.activity.lawtree.AddQunPersonActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.uikit.business.team.activity.lawtree.ZhuangRangQunActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.uikit.business.team.activity.lawtree.AddQunPersonMqyActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.qysd.uikit.business.team.activity.lawtree.AddQunPersonWbqyActivity"
+            android:screenOrientation="portrait" />
+
+        <provider
+            android:name="com.qysd.uikit.common.media.picker.model.GenericFileProvider"
+            android:authorities="com.qysd.lawtree.generic.file.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider> <!-- 红包页面 -->
+        <activity
+            android:name="com.jrmf360.normallib.rp.ui.OpenRpActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/Jrmf_b_DialogTheme" />
+        <activity
+            android:name="com.jrmf360.normallib.rp.ui.PayTypeActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/jrmf_b_dialog" />
+        <activity
+            android:name="com.jrmf360.normallib.rp.ui.TransPayActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/jrmf_b_dialog"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.SendGroupEnvelopesActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.SendSingleEnvelopesActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.RpDetailActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.MyRpActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.ResetPwdActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.CertificationActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.CheckAuthActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.CheckUserInfoActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.EnBrowserActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.SettingPswdActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.TradeDetailActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.TradeHistoryActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.TransAccountActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.BankCardListActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.AddCardActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.AddCardFirsstActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.AddCardSecondActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.TransDetailActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.TransSuccActivity" />
+        <activity android:name="com.jrmf360.normallib.rp.ui.WebViewActivity" /> <!-- 钱包页面 -->
+        <activity android:name="com.jrmf360.normallib.wallet.ui.MyWalletActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.AccountInfoActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.TradeHistoryActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.SecureSettingActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.SupportBankCardActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.BankSettingActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.AddCardSecondActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.AddCardFirstActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.GetDepositActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.IdentityAuthenActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.MyRpActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.RechargeActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.TradeDetailActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.WebViewActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.RpDetailActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.GetPwdActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.PwdCheckActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.UpdatePwdActivity" />
+        <activity android:name="com.jrmf360.normallib.wallet.ui.SetPayPwdActivity" /> <!-- 支付宝配置开始 -->
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation|screenSize"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.alipay.sdk.app.H5AuthActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.qysd.avchatkit.activity.AVChatActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait"
+            android:theme="@style/FullScreenTheme"
+            android:windowSoftInputMode="stateAlwaysHidden" /> <!-- 音视频 -->
+        <activity
+            android:name="com.qysd.avchatkit.teamavchat.activity.TeamAVChatActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait"
+            android:theme="@style/FullScreenTheme"
+            android:windowSoftInputMode="stateAlwaysHidden" /> <!-- NRTC Settings -->
+        <activity
+            android:name="com.qysd.avchatkit.activity.AVChatSettingsActivity"
+            android:screenOrientation="portrait" /> <!-- 申明本地电话状态（通话状态）的广播接收器，第三方APP集成时音视频模块时，如果需要在App中处理网络通话与本地电话的交互请加上此接收器 -->
+        <!-- 在Demo的示例代码中是在Application进行了网络通话与本地电话的互斥处理 -->
+        <receiver android:name="com.qysd.avchatkit.receiver.IncomingCallReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.PHONE_STATE" />
+            </intent-filter>
+        </receiver>
+        <!--
+ FirebaseMessagingService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <service
+            android:name="com.meizu.cloud.pushsdk.NotificationService"
+            android:exported="true" />
+
+        <receiver
+            android:name="com.meizu.cloud.pushsdk.SystemReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.meizu.cloud.pushservice.action.PUSH_SERVICE_START" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+            android:exported="false"
+            android:label=""
+            android:theme="@style/EasyPermissions.Transparent" /> <!-- 图片预览界面 -->
+        <activity
+            android:name="cn.bingoogolapple.photopicker.activity.BGAPhotoPreviewActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/BGAPPTheme"
+            android:windowSoftInputMode="stateAlwaysHidden" /> <!-- 图片选择界面 -->
+        <activity
+            android:name="cn.bingoogolapple.photopicker.activity.BGAPhotoPickerActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/BGAPPTheme"
+            android:windowSoftInputMode="stateAlwaysHidden" /> <!-- 图片选择预览界面 -->
+        <activity
+            android:name="cn.bingoogolapple.photopicker.activity.BGAPhotoPickerPreviewActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/BGAPPTheme"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <provider
+            android:name="cn.bingoogolapple.photopicker.util.BGAPhotoFileProvider"
+            android:authorities="com.qysd.lawtree.bga_photo_picker.file_provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/bga_photo_picker_file_paths" />
+        </provider> <!-- Rich push 核心功能 since 2.0.6 -->
+        <activity
+            android:name="cn.jpush.android.ui.PopWinActivity"
+            android:exported="false"
+            android:theme="@style/MyDialogStyle" /> <!-- Required SDK核心功能 -->
+        <activity
+            android:name="cn.jpush.android.ui.PushActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:exported="false"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.ui.PushActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="com.qysd.lawtree" />
+            </intent-filter>
+        </activity> <!-- Required  SDK核心功能 -->
+        <service
+            android:name="cn.jpush.android.service.DownloadService"
+            android:enabled="true"
+            android:exported="false" /> <!-- Required SDK 核心功能 -->
+        <!-- 可配置android:process参数将PushService放在其他进程中 -->
+        <service
+            android:name="cn.jpush.android.service.PushService"
+            android:enabled="true"
+            android:exported="false"
+            android:process=":pushcore" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTER" />
+                <action android:name="cn.jpush.android.intent.REPORT" />
+                <action android:name="cn.jpush.android.intent.PushService" />
+                <action android:name="cn.jpush.android.intent.PUSH_TIME" />
+            </intent-filter>
+        </service> <!-- since 1.8.0 option 可选项。用于同一设备中不同应用的JPush服务相互拉起的功能。 -->
+        <!-- 若不启用该功能可删除该组件，将不拉起其他应用也不能被其他应用拉起 -->
+        <service
+            android:name="cn.jpush.android.service.DaemonService"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.DaemonService" />
+
+                <category android:name="com.qysd.lawtree" />
+            </intent-filter>
+        </service> <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.PushReceiver"
+            android:enabled="true"
+            android:exported="false"
+            android:process=":pushcore" >
+            <intent-filter android:priority="1000" >
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY" /> <!-- Required  显示通知栏 -->
+                <category android:name="com.qysd.lawtree" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <!-- Optional -->
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver> <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.AlarmReceiver"
+            android:exported="false" /> <!-- Required  . Enable it you can get statistics data with channel -->
+        <meta-data
+            android:name="JPUSH_CHANNEL"
+            android:value="developer-default" />
+        <meta-data
+            android:name="JPUSH_APPKEY"
+            android:value="8debae0f2755e38ba915bb78" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.qysd.lawtree" />
+            </intent-filter>
+        </receiver>
+        <!--
+ FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.qysd.lawtree.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.huawei.hms.activity.BridgeActivity"
+            android:configChanges="orientation|locale|screenSize|layoutDirection|fontScale"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:hardwareAccelerated="true"
+            android:theme="@android:style/Theme.Translucent" >
+            <meta-data
+                android:name="hwc-theme"
+                android:value="androidhwext:style/Theme.Emui.Translucent" />
+        </activity>
+
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+    </application>
+
+</manifest>

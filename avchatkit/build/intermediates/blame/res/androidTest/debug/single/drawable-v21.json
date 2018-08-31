@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\35ac12adb9ae28ba127556d4170b82e6\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\efe5cad1c201981a5355daf34adc64c0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\35ac12adb9ae28ba127556d4170b82e6\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\35ac12adb9ae28ba127556d4170b82e6\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\35ac12adb9ae28ba127556d4170b82e6\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tvGoodField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/size_5"
+        android:paddingLeft="@dimen/size_2"
+        android:paddingRight="@dimen/size_2"
+        android:text="医疗纠纷"
+        android:textColor="#0065c3"
+        android:textSize="@dimen/text_size_10" />
+
+</LinearLayout>

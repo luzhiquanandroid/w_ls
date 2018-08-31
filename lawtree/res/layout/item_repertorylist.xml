@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/size_10"
+        android:paddingRight="@dimen/size_8">
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/size_9"
+            android:textColor="@color/black_04"
+            android:text="钢材"/>
+        <TextView
+            android:id="@+id/tv_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_name"
+            android:layout_marginTop="@dimen/size_4"
+            android:textColor="@color/grey_01"
+            android:textSize="@dimen/size_12"
+            android:text="25mm*25mm"/>
+        <TextView
+            android:id="@+id/tv_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/blue_03"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:text="钢材"/>
+    </RelativeLayout>
+
+    <View style="@style/line_view_1"
+        android:layout_marginTop="@dimen/size_10"/>
+
+</LinearLayout>

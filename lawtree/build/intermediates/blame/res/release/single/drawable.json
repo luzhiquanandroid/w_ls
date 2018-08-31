@@ -1,0 +1,1054 @@
+[
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\t_avchat_voice_mute.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\t_avchat_voice_mute.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_bar_foreground.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_progress_bar_foreground.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_bottom_logout_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\avchat_bottom_logout_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\effect_item_circle_selected.xml",
+        "source": "F:\\android_project\\w_ls\\faceunity\\build\\intermediates\\bundles\\release\\res\\drawable\\effect_item_circle_selected.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_rp_bg_red_click_round.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_rp_bg_red_click_round.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_bar_background.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_progress_bar_background.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\multi_select_text_color_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\multi_select_text_color_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\zero_blur_level_item_selected.xml",
+        "source": "F:\\android_project\\w_ls\\faceunity\\build\\intermediates\\bundles\\release\\res\\drawable\\zero_blur_level_item_selected.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\efe5cad1c201981a5355daf34adc64c0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_rp_bg_red_round.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_rp_bg_red_round.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_photo_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_message_plus_photo_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_rp_shape_click_item_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_rp_shape_click_item_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\checkupdatelibrary_shape_update_button.xml",
+        "source": "F:\\android_project\\w_ls\\updateapplibrary\\build\\intermediates\\bundles\\release\\res\\drawable\\checkupdatelibrary_shape_update_button.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_emoji_item_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_emoji_item_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\35ac12adb9ae28ba127556d4170b82e6\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bga_pp_shape_photo_folder_pw_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\01b8c76e2594c7bf482c6ef93854cf30\\res\\drawable\\bga_pp_shape_photo_folder_pw_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_send_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_message_button_bottom_send_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bga_pp_rotate_progress_bar.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\01b8c76e2594c7bf482c6ef93854cf30\\res\\drawable\\bga_pp_rotate_progress_bar.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_receive_bg_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\avchat_receive_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_chatroom_robot_link_view_press_round.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_chatroom_robot_link_view_press_round.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_explosion.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_explosion.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\35ac12adb9ae28ba127556d4170b82e6\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_w_selector_round_btn.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_w_selector_round_btn.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\setting_down_nor.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\setting_down_nor.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\shape_dialog_bg_two.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\shape_dialog_bg_two.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_guess_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\message_plus_guess_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\multi_select_bg.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\multi_select_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_audio_call_text_color_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\avchat_audio_call_text_color_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\multi_select_switch_bg_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\multi_select_switch_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\splash_bg.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\splash_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_location_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_message_plus_location_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bga_baseadapter_white_gray.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-baseadapter-1.2.9.aar\\424b895e92e2ffe2b85f59afbb610106\\res\\drawable\\bga_baseadapter_white_gray.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\setting_down_pressed.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\setting_down_pressed.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\g_white_btn_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\g_white_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_close_camera_bg.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\avchat_close_camera_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bg_add.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\bg_add.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle_normal.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_bg_edittext_rectangle_normal.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\setting_up_pressed.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\setting_up_pressed.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_rp_selector_item.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_rp_selector_item.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\t_avchat_switch_camera_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\t_avchat_switch_camera_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bottom_divider_match_parent_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_bottom_divider_match_parent_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_gray_edit_text_bg.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_gray_edit_text_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_white_round_button_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\nim_white_round_button_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_semitransparency_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_semitransparency_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_rp_dialog_paytype_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_rp_dialog_paytype_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bga_baseadapter_divider_shape.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-baseadapter-1.2.9.aar\\424b895e92e2ffe2b85f59afbb610106\\res\\drawable\\bga_baseadapter_divider_shape.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\35ac12adb9ae28ba127556d4170b82e6\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\t_avchat_speaker_mute_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\t_avchat_speaker_mute_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_audio_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_message_button_bottom_audio_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_rp_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res-rp\\drawable\\message_plus_rp_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_member_add_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_team_member_add_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_bg_edittext_rectangle.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_rp_shape_normal_blue_round_btn_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_rp_shape_normal_blue_round_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_w_shape_click_item_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_w_shape_click_item_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\upsdk_update_all_button.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\base-2.5.3.302.aar\\76c5e94aedb6d29ef50d41680e503476\\res\\drawable\\upsdk_update_all_button.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_rp_bg_gray_round.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_rp_bg_gray_round.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_list_item_bg_selecter.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_list_item_bg_selecter.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_snapchat_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\message_plus_snapchat_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\text_blue_radius.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\text_blue_radius.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_cancel_record_red_bg.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_cancel_record_red_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_b_selector_cursor.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_b_selector_cursor.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_robot_link_view_press_round.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_robot_link_view_press_round.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_w_bg_gray_round.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_w_bg_gray_round.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_rp_shape_cursor.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_rp_shape_cursor.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bga_pp_selector_item_folder.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\01b8c76e2594c7bf482c6ef93854cf30\\res\\drawable\\bga_pp_selector_item_folder.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_easy_edit_text_dialog_bg.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_easy_edit_text_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\efe5cad1c201981a5355daf34adc64c0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bg_no_bg_green_line.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\bg_no_bg_green_line.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_b_round_spinner_fade.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_b_round_spinner_fade.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\background_tab.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\red_packet_rev_bg.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res-rp\\drawable\\red_packet_rev_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_chatroom_robot_link_view_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_chatroom_robot_link_view_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\t_avchat_camera_mute_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\t_avchat_camera_mute_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\effect_item_square_selected.xml",
+        "source": "F:\\android_project\\w_ls\\faceunity\\build\\intermediates\\bundles\\release\\res\\drawable\\effect_item_square_selected.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\g_red_long_btn_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\g_red_long_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\shape_oval_gray_bg.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\shape_oval_gray_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_w_selector_checked.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_w_selector_checked.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\rp_open_holder_bg.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res-rp\\drawable\\rp_open_holder_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_popup_menu_item_black_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_popup_menu_item_black_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_robot_link_view_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_robot_link_view_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\video_audio_mode_switch_bg.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\video_audio_mode_switch_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_sticker_button_background_normal_layer_list.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_sticker_button_background_normal_layer_list.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_logut_bg_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\avchat_logut_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_ic_menu_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_ic_menu_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_w_shape_code_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_w_shape_code_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\efe5cad1c201981a5355daf34adc64c0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_video_chat_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\message_plus_video_chat_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\red_packet_send_bg.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res-rp\\drawable\\red_packet_send_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_w_shape_normal_item_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_w_shape_normal_item_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\main_tab_lxr.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\main_tab_lxr.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_tip_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\message_plus_tip_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\tab_xiaoxi_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\tab_xiaoxi_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bg_no_bg_line.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\bg_no_bg_line.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_w_shape_click_round_btn_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_w_shape_click_round_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\all_bg_contain_yinying.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\all_bg_contain_yinying.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_speaker_icon_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\avchat_speaker_icon_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_actionbar_nest_dark_logo.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_actionbar_nest_dark_logo.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_white_logo_space.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\actionbar_white_logo_space.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\round_corner.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_rp_shape_normal_item_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_rp_shape_normal_item_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_mute_icon_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\avchat_mute_icon_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\checkupdatelibrary_shape_dialog_background.xml",
+        "source": "F:\\android_project\\w_ls\\updateapplibrary\\build\\intermediates\\bundles\\release\\res\\drawable\\checkupdatelibrary_shape_dialog_background.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_rp_shape_click_blue_round_btn_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_rp_shape_click_blue_round_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\selector_pickerview_btn.xml",
+        "source": "F:\\android_project\\w_ls\\pickerview\\build\\intermediates\\bundles\\release\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bga_pp_shape_dialog_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\01b8c76e2594c7bf482c6ef93854cf30\\res\\drawable\\bga_pp_shape_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_audio_chat_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\message_plus_audio_chat_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_add_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_message_button_bottom_add_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\effect_item_circle_unselected.xml",
+        "source": "F:\\android_project\\w_ls\\faceunity\\build\\intermediates\\bundles\\release\\res\\drawable\\effect_item_circle_unselected.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_left_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_message_item_left_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_rp_bg_white_round_stroke.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_rp_bg_white_round_stroke.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\t_avchat_microphone_mute_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\t_avchat_microphone_mute_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bg_no_bg_black_line.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\bg_no_bg_black_line.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\tab_wode_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\tab_wode_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\setting_one_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\setting_one_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\35ac12adb9ae28ba127556d4170b82e6\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\efe5cad1c201981a5355daf34adc64c0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_portrait_mask_round.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_portrait_mask_round.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bg_search.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\bg_search.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\blur_level_item_selected.xml",
+        "source": "F:\\android_project\\w_ls\\faceunity\\build\\intermediates\\bundles\\release\\res\\drawable\\blur_level_item_selected.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_mute_bg.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\avchat_mute_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\t_avchat_disable_user_audio_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\t_avchat_disable_user_audio_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\t_avchat_speaker_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\t_avchat_speaker_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bg_no_bg_blue_line.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\bg_no_bg_blue_line.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\t_avchat_voice_normal.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\t_avchat_voice_normal.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\main_tab_yingyong.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\main_tab_yingyong.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_plus_video_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_message_plus_video_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_w_shape_normal_round_btn_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_w_shape_normal_round_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\setting_up_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\setting_up_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_w_selector_forget_pwd.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_w_selector_forget_pwd.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\register_right_top_btn_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\register_right_top_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_b_shape_round_white.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_b_shape_round_white.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_view_pager_indicator_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_view_pager_indicator_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_audio_animation_list_left.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_audio_animation_list_left.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\shape_bg_white_5.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\shape_bg_white_5.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_b_dialog_background.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_b_dialog_background.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_switch_camera_bg.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\avchat_switch_camera_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\checkupdatelibrary_shape_no_update_button.xml",
+        "source": "F:\\android_project\\w_ls\\updateapplibrary\\build\\intermediates\\bundles\\release\\res\\drawable\\checkupdatelibrary_shape_no_update_button.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_w_shape_round_white.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_w_shape_round_white.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_create_btn_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_team_create_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_recent_contact_sticky_selecter.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_recent_contact_sticky_selecter.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_progress_small_white.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_progress_small_white.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_w_shape_unbind.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_w_shape_unbind.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_picker_preview_btn_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_picker_preview_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_portrait_mask_square.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_portrait_mask_square.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\shape_cir_bg.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\shape_cir_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_red_round_button_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_red_round_button_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_sticker_button_background_pressed_layer_list.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_sticker_button_background_pressed_layer_list.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\selector_check.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\selector_check.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_audio_record_icon_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\avchat_audio_record_icon_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_view_bottom.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_message_view_bottom.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_right_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_message_item_right_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_nim_action_bar_button_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_nim_action_bar_button_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_file_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\message_plus_file_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_touch_bg.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_touch_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\t_avchat_microphone_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\t_avchat_microphone_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_play_btn_select.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\nim_play_btn_select.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\setting_one_pressed.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\setting_one_pressed.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\btn_location_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\btn_location_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.0.aar\\71298972e6d141267ce9a7f3e197fd63\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_align_bottom_green_btn_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_align_bottom_green_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\register_tip_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\register_tip_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\chat_room_back_arrow_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\chat_room_back_arrow_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_contact_list_item_selecter.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_contact_list_item_selecter.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_g_image_preview_white_btn_selecter.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_g_image_preview_white_btn_selecter.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_sample_footer_loading_progress.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_blue_edit_text_bg.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_blue_edit_text_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_refuse_bg_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\avchat_refuse_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_popup_menu_item_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_popup_menu_item_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\shape_dialog_bg.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\shape_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_cameras_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_cameras_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\upsdk_third_download_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\base-2.5.3.302.aar\\76c5e94aedb6d29ef50d41680e503476\\res\\drawable\\upsdk_third_download_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\setting_down_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\setting_down_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_audio_animation_list_right.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_audio_animation_list_right.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_w_shape_default_avatar.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_w_shape_default_avatar.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\shape_cirle_gray.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\shape_cirle_gray.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\zero_blur_level_item_unselected.xml",
+        "source": "F:\\android_project\\w_ls\\faceunity\\build\\intermediates\\bundles\\release\\res\\drawable\\zero_blur_level_item_unselected.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_actionbar_black_bg.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_actionbar_black_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\main_tab_my.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\main_tab_my.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\tab_yingyong_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\tab_yingyong_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\t_avchat_camera_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\t_avchat_camera_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_emoji_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_message_button_bottom_emoji_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_rp_selector_blue_round_btn.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_rp_selector_blue_round_btn.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\t_avchat_hangup_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\t_avchat_hangup_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bg_blue_radius.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\bg_blue_radius.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\message_plus_rts_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\message_plus_rts_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\multi_select_ok_bg.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\multi_select_ok_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bg_index.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\bg_index.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\tab_lianxiren_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\tab_lianxiren_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_rp_selector_common_btn.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_rp_selector_common_btn.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_chatroom_robot_link_view_round.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_chatroom_robot_link_view_round.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bg_gray_radius.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\bg_gray_radius.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_video_record_selector.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\avchat_video_record_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\multi_select_cancel_bg.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\multi_select_cancel_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_item_round_bg.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_message_item_round_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_team_member_delete_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_team_member_delete_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bg_no_bg_yellow_line.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\bg_no_bg_yellow_line.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_robot_link_view_round.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_robot_link_view_round.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_w_selector_item.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_w_selector_item.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\avchat_mute_speaker_bg.xml",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\release\\res\\drawable\\avchat_mute_speaker_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\35ac12adb9ae28ba127556d4170b82e6\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\setting_one_nor.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\setting_one_nor.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_video_play_icon_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_video_play_icon_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_bg_edittext_rectangle_focused.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_bg_edittext_rectangle_focused.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\main_tab_message.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\main_tab_message.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\bga_pp_selector_btn_confirm.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\bga-photopicker-1.2.8.aar\\01b8c76e2594c7bf482c6ef93854cf30\\res\\drawable\\bga_pp_selector_btn_confirm.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\e283d836536347f7a154de947eb83a38\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\skin_global_bg.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\skin_global_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_unread_news_icon_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_message_unread_news_icon_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\setting_up_nor.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\setting_up_nor.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\jrmf_rp_bg_white_round.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\release\\res\\drawable\\jrmf_rp_bg_white_round.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\actionbar_dark_logo.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\actionbar_dark_logo.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\notification_delete_selector.xml",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\drawable\\notification_delete_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_message_button_bottom_text_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_message_button_bottom_text_selector.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\blur_level_item_unselected.xml",
+        "source": "F:\\android_project\\w_ls\\faceunity\\build\\intermediates\\bundles\\release\\res\\drawable\\blur_level_item_unselected.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\release\\drawable\\nim_list_item_selector.xml",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\release\\res\\drawable\\nim_list_item_selector.xml"
+    }
+]

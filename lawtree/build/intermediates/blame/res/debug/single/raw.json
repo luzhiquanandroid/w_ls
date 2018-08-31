@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\raw\\msg.wav",
+        "source": "F:\\android_project\\w_ls\\lawtree\\res\\raw\\msg.wav"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_no_response.mp3",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\raw\\avchat_no_response.mp3"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\raw\\njrmf360.crt",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\raw\\njrmf360.crt"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_reject.mp3",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\raw\\avchat_peer_reject.mp3"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\raw\\audio_end_tip.wav",
+        "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\raw\\audio_end_tip.wav"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_connecting.mp3",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\raw\\avchat_connecting.mp3"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_ring.mp3",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\raw\\avchat_ring.mp3"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\debug\\raw\\avchat_peer_busy.mp3",
+        "source": "F:\\android_project\\w_ls\\avchatkit\\build\\intermediates\\bundles\\debug\\res\\raw\\avchat_peer_busy.mp3"
+    }
+]

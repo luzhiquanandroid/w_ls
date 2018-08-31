@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <include layout="@layout/layout_title" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_marginBottom="@dimen/size_50"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:id="@+id/rl_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/size_10"
+                    android:background="@color/white"
+                    android:paddingBottom="@dimen/size_5"
+                    android:paddingLeft="@dimen/size_10"
+                    android:paddingRight="@dimen/size_10"
+                    android:paddingTop="@dimen/size_5">
+
+                    <TextView
+                        android:id="@+id/tv_task_order"
+                        android:layout_width="137dp"
+                        android:layout_height="16dp"
+                        android:layout_centerVertical="true"
+                        android:text="订单编号:2017110700001"
+                        android:textColor="#999999"
+                        android:textSize="@dimen/text_size_12" />
+
+                    <TextView
+                        android:id="@+id/tv_task_time"
+                        android:layout_width="65dp"
+                        android:layout_height="17dp"
+                        android:layout_alignParentRight="true"
+                        android:text="2017/11/09"
+                        android:textColor="#ff888888"
+                        android:textSize="12dp" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/size_1"
+                    android:layout_marginLeft="@dimen/size_10"
+                    android:layout_marginRight="@dimen/size_10"
+                    android:background="#F6F6F6" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:paddingBottom="@dimen/size_15"
+                    android:paddingLeft="@dimen/size_10"
+                    android:paddingRight="@dimen/size_10"
+                    android:paddingTop="@dimen/size_15">
+
+                    <TextView
+                        android:id="@+id/tv_task_materName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="空白外箱"
+                        android:textColor="#ff333333"
+                        android:textSize="@dimen/text_size_15" />
+
+                    <TextView
+                        android:id="@+id/tv_task_num"
+                        android:layout_width="41dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentRight="true"
+                        android:text="300只"
+                        android:textColor="#64A7FF"
+                        android:textSize="14dp" />
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/size_10"
+                    android:background="@color/white"
+                    android:orientation="vertical"
+                    android:paddingBottom="@dimen/size_14"
+                    android:paddingLeft="@dimen/size_10"
+                    android:paddingRight="@dimen/size_10"
+                    android:paddingTop="@dimen/size_11">
+
+                    <TextView
+                        android:id="@+id/tv_task_completTime"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="履约日期：2017/01/01"
+                        android:textColor="#333333"
+                        android:textSize="13dp" />
+
+                    <TextView
+                        android:id="@+id/tv_task_remark"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/size_11"
+                        android:text="备注信息：亲，要一些特别大的空白箱子。"
+                        android:textColor="#333333"
+                        android:textSize="13dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/size_10"
+                    android:background="@color/white"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:paddingBottom="@dimen/size_10"
+                        android:paddingLeft="@dimen/size_10"
+                        android:paddingRight="@dimen/size_10"
+                        android:paddingTop="@dimen/size_10">
+
+                        <ImageView
+                            android:layout_width="@dimen/size_13"
+                            android:layout_height="@dimen/size_13"
+                            android:src="@drawable/ic_task_manager" />
+
+                        <TextView
+                            android:id="@+id/tv_task_current"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/size_10"
+                            android:text="当前任务：打纸"
+                            android:textColor="#ff000000"
+                            android:textSize="@dimen/text_size_13" />
+
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/size_1"
+                        android:layout_marginLeft="@dimen/size_10"
+                        android:layout_marginRight="@dimen/size_10"
+                        android:background="#F0F0F0" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:paddingBottom="@dimen/size_10"
+                        android:paddingLeft="@dimen/size_10"
+                        android:paddingRight="@dimen/size_10"
+                        android:paddingTop="@dimen/size_10">
+
+                        <ImageView
+                            android:layout_width="@dimen/size_13"
+                            android:layout_height="@dimen/size_13"
+                            android:src="@drawable/ic_task_manager_data" />
+
+                        <TextView
+                            android:id="@+id/tv_task_count"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/size_10"
+                            android:text="任务数量：150只"
+                            android:textColor="#ff000000"
+                            android:textSize="@dimen/text_size_13" />
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:id="@+id/ll_comp_task_manager"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="#F6F6F6"
+                            android:drawableLeft="@drawable/ic_comp_task_error"
+                            android:drawablePadding="@dimen/size_10"
+                            android:paddingBottom="@dimen/size_6"
+                            android:paddingLeft="@dimen/size_10"
+                            android:paddingTop="@dimen/size_6"
+                            android:text="以下内容为任务完成时填写"
+                            android:textColor="#ff888888"
+                            android:textSize="@dimen/text_size_11" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_vertical"
+                            android:paddingBottom="@dimen/size_10"
+                            android:paddingLeft="@dimen/size_10"
+                            android:paddingRight="@dimen/size_10"
+                            android:paddingTop="@dimen/size_10">
+
+                            <ImageView
+                                android:layout_width="@dimen/size_13"
+                                android:layout_height="@dimen/size_13"
+                                android:src="@drawable/ic_task_manager_data" />
+
+                            <TextView
+                                android:id="@+id/tv_comp_task_num"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="@dimen/size_10"
+                                android:text="任务预期完成数量为 只，请输入实际完成数量"
+                                android:textColor="#ff000000"
+                                android:textSize="@dimen/text_size_13" />
+                        </LinearLayout>
+
+                        <EditText
+                            android:id="@+id/et_task_num"
+                            android:layout_width="@dimen/size_152"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="@dimen/size_14"
+                            android:layout_marginLeft="@dimen/size_30"
+                            android:background="@drawable/bg_gray_radius"
+                            android:gravity="center"
+                            android:hint="0"
+                            android:inputType="number" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/white"
+                            android:gravity="center_vertical"
+                            android:paddingBottom="@dimen/size_10"
+                            android:paddingLeft="@dimen/size_10"
+                            android:paddingRight="@dimen/size_10"
+                            android:paddingTop="@dimen/size_10">
+
+                            <ImageView
+                                android:layout_width="@dimen/size_13"
+                                android:layout_height="@dimen/size_13"
+                                android:src="@drawable/ic_task_manager_beizhu" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="@dimen/size_10"
+                                android:text="完工备注"
+                                android:textColor="#ff000000"
+                                android:textSize="@dimen/text_size_13" />
+
+                        </LinearLayout>
+
+                        <EditText
+                            android:id="@+id/et_task_remarks"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="@dimen/size_14"
+                            android:layout_marginLeft="@dimen/size_30"
+                            android:layout_marginRight="@dimen/size_10"
+                            android:background="@null"
+                            android:gravity="left"
+                            android:hint="请填写完工备注"
+                            android:textColor="#333333"
+                            android:textColorHint="#CBCBCB"
+                            android:textSize="@dimen/size_13" />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </ScrollView>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_complete_query"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_36"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/size_17"
+        android:layout_marginLeft="@dimen/size_10"
+        android:layout_marginRight="@dimen/size_10"
+        android:background="@drawable/bg_blue_radius"
+        android:gravity="center"
+        android:text="完工确认"
+        android:textColor="@color/white" />
+</RelativeLayout>

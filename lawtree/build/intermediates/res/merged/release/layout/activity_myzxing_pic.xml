@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_title"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_381"
+        android:layout_marginTop="@dimen/size_46"
+        android:gravity="center"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/size_18"
+            android:paddingRight="@dimen/size_17"
+            android:layout_marginTop="@dimen/size_16">
+            <TextView
+                android:id="@+id/tv_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/text_size_16"
+                android:textColor="@color/black_04"
+                android:text="张三三"/>
+            <ImageView
+                android:id="@+id/iv_header"
+                android:layout_width="@dimen/size_35"
+                android:layout_height="@dimen/size_35"
+                android:src="@drawable/dingdanguanli"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/iv_zxing_code"
+            android:layout_width="@dimen/size_240"
+            android:layout_height="@dimen/size_240"
+            android:layout_marginTop="@dimen/size_29"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/size_18"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/saoyisao"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/size_7"
+            android:text="扫一扫加我为好友"/>
+    </LinearLayout>
+
+</LinearLayout>

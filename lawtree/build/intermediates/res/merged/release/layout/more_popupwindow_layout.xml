@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/ll_lianxiren_detail"
+        android:layout_width="@dimen/size_120"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_pop"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/ll_beizhu"
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/size_10"
+            android:layout_height="@dimen/size_38"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/size_18">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_beizhu" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/size_9"
+                android:text="备注名称"
+                android:textColor="#000000"
+                android:textSize="@dimen/text_size_14" />
+        </LinearLayout>
+
+        <View
+            android:id="@+id/view_line"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/size_0.1"
+            android:layout_marginLeft="@dimen/size_1"
+            android:layout_marginRight="@dimen/size_1"
+            android:background="#fff0f0f0" />
+
+        <LinearLayout
+            android:id="@+id/ll_delete_friend"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/size_38"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/size_18"
+            android:visibility="gone">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_shanchu" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/size_9"
+                android:text="删除好友"
+                android:textColor="#000000"
+                android:textSize="@dimen/text_size_14" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

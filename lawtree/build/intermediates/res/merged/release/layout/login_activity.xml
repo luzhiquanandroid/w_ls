@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/app_bar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        app:elevation="0dp">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:visibility="gone"
+            app:titleTextAppearance="@style/Toolbar.TitleText">
+
+            <include layout="@layout/nim_action_bar_right_clickable_tv" />
+        </android.support.v7.widget.Toolbar>
+    </android.support.design.widget.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size_42">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/login_layout_logo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="59dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="@dimen/size_30"
+                    android:layout_height="@dimen/size_27"
+                    android:layout_marginLeft="@dimen/size_36"
+                    android:background="@drawable/logo"
+                    android:contentDescription="@string/empty"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/size_7"
+                    android:textSize="@dimen/text_size_21"
+                    android:textStyle="bold"
+                    android:text="律树平台"/>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/register_layout_logo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="59dp"
+                android:layout_marginLeft="@dimen/size_36"
+                android:textSize="@dimen/text_size_21"
+                android:visibility="gone"
+                android:textStyle="bold"
+                android:text="绿树平台"/>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginTop="74dp">
+
+                <LinearLayout
+                    android:id="@+id/login_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <com.qysd.uikit.common.ui.widget.ClearableEditTextWithIcon
+                        android:id="@+id/edit_login_account"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="number"
+                        android:background="@drawable/edittext_white_normal"
+                        android:drawablePadding="15dp"
+                        android:hint="@string/login_hint_account"
+                        android:textColor="@color/black"
+                        android:textColorHint="@color/text_hint"
+                        android:textCursorDrawable="@null"
+                        android:textSize="15sp"/>
+                    <View style="@style/line_view_3"
+                        android:layout_marginLeft="@dimen/size_35"
+                        android:layout_marginRight="@dimen/size_35"/>
+                    <com.qysd.uikit.common.ui.widget.ClearableEditTextWithIcon
+                        android:id="@+id/edit_login_password"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edittext_white_normal"
+                        android:drawablePadding="15dp"
+                        android:hint="@string/login_hint_password"
+                        android:inputType="textPassword"
+                        android:longClickable="false"
+                        android:textColor="@color/black"
+                        android:textColorHint="@color/text_hint"
+                        android:textCursorDrawable="@null"
+                        android:textSize="15sp"/>
+                    <View style="@style/line_view_3"
+                        android:layout_marginLeft="@dimen/size_35"
+                        android:layout_marginRight="@dimen/size_35"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/register_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <com.qysd.uikit.common.ui.widget.ClearableEditTextWithIcon
+                        android:id="@+id/edit_register_account"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edittext_white_normal"
+                        android:digits="1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+                        android:drawablePadding="15dp"
+                        android:hint="@string/input_account"
+                        android:inputType="text"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:textColor="@color/black"
+                        android:textColorHint="@color/text_hint"
+                        android:textCursorDrawable="@null"
+                        android:textSize="15sp"/>
+                    <View style="@style/line_view_3"/>
+                    <com.qysd.uikit.common.ui.widget.ClearableEditTextWithIcon
+                        android:id="@+id/edit_register_nickname"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edittext_white_normal"
+                        android:drawablePadding="15dp"
+                        android:hint="@string/input_nickname"
+                        android:inputType="text"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:textColor="@color/black"
+                        android:textColorHint="@color/text_hint"
+                        android:textCursorDrawable="@null"
+                        android:textSize="15sp"/>
+                    <View style="@style/line_view_3"/>
+                    <com.qysd.uikit.common.ui.widget.ClearableEditTextWithIcon
+                        android:id="@+id/edit_register_password"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edittext_white_normal"
+                        android:drawablePadding="15dp"
+                        android:hint="@string/input_password"
+                        android:inputType="textPassword"
+                        android:longClickable="false"
+                        android:paddingLeft="15dp"
+                        android:paddingRight="15dp"
+                        android:textColor="@color/black"
+                        android:textColorHint="@color/text_hint"
+                        android:textCursorDrawable="@null"
+                        android:textSize="15sp"/>
+                    <View style="@style/line_view_3"/>
+                </LinearLayout>
+            </FrameLayout>
+
+            <TextView
+                android:id="@+id/tv_login"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/size_38"
+                android:layout_marginTop="@dimen/size_36"
+                android:layout_marginLeft="@dimen/size_36"
+                android:layout_marginRight="@dimen/size_36"
+                android:gravity="center"
+                android:background="@drawable/bg_add"
+                android:textColor="@color/white"
+                android:text="登录"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/size_12"
+                android:layout_marginLeft="@dimen/size_36"
+                android:layout_marginRight="@dimen/size_36">
+                <TextView
+                    android:id="@+id/login_foget_tip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="忘记密码"
+                    android:textColor="@color/black_01"
+                    android:textSize="@dimen/text_size_11"/>
+                <TextView
+                    android:id="@+id/register_login_tip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:text="注册账号"
+                    android:textColor="@color/black_01"
+                    android:textSize="@dimen/text_size_11"/>
+            </RelativeLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,105,162",
+                        "endColumns": "49,56,46",
+                        "endOffsets": "100,157,204"
+                    }
+                },
+                {
+                    "source": "F:\\android_project\\w_ls\\pickerview\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,153,200,249,296,345,396",
+                        "endColumns": "52,44,46,48,46,48,50,45",
+                        "endOffsets": "103,148,195,244,291,340,391,437"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "209,262,307,354,403,450,499,550",
+                        "endColumns": "52,44,46,48,46,48,50,45",
+                        "endOffsets": "257,302,349,398,445,494,545,591"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\android_project\\w_ls\\lawtree\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "F:\\android_project\\w_ls\\uikit\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,105,162",
+                        "endColumns": "49,56,46",
+                        "endOffsets": "100,157,204"
+                    }
+                },
+                {
+                    "source": "F:\\android_project\\w_ls\\pickerview\\build\\intermediates\\bundles\\debug\\res\\values-en\\values-en.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,153,200,249,296,345,396",
+                        "endColumns": "52,44,46,48,46,48,50,45",
+                        "endOffsets": "103,148,195,244,291,340,391,437"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "209,262,307,354,403,450,499,550",
+                        "endColumns": "52,44,46,48,46,48,50,45",
+                        "endOffsets": "257,302,349,398,445,494,545,591"
+                    }
+                }
+            ]
+        }
+    ]
+}

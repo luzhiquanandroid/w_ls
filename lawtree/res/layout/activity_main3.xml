@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:id="@+id/layContent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/line" />
+
+        <TextView
+            android:id="@+id/line"
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:layout_above="@+id/layBottom"
+            android:background="@color/gray7" />
+
+        <LinearLayout
+            android:id="@+id/layBottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/tvRedCount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginRight="@dimen/size_10"
+                    android:background="@drawable/round_corner"
+                    android:gravity="center"
+                    android:text="10"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_10" />
+
+                <TextView
+                    android:id="@+id/tvMessage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:drawablePadding="@dimen/size_4"
+                    android:drawableTop="@drawable/main_tab_message"
+                    android:gravity="center"
+                    android:padding="@dimen/size_4"
+                    android:text="消息"
+                    android:textColor="@color/main_tab_text"
+                    android:textSize="@dimen/text_size_12" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/tvLxr"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:drawablePadding="@dimen/size_4"
+                android:drawableTop="@drawable/main_tab_lxr"
+                android:gravity="center"
+                android:padding="@dimen/size_4"
+                android:text="联系人"
+                android:textColor="@color/main_tab_text"
+                android:textSize="@dimen/text_size_12" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:visibility="invisible"
+                android:drawablePadding="@dimen/size_4"
+                android:drawableTop="@drawable/main_tab_lxr"
+                android:gravity="center"
+                android:padding="@dimen/size_4"
+                android:text="联系人"
+                android:textColor="@color/main_tab_text"
+                android:textSize="@dimen/text_size_12" />
+
+
+            <TextView
+                android:id="@+id/tvYingYong"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:drawablePadding="@dimen/size_4"
+                android:drawableTop="@drawable/main_tab_yingyong"
+                android:gravity="center"
+                android:padding="@dimen/size_4"
+                android:text="应用"
+                android:textColor="@color/main_tab_text"
+                android:textSize="@dimen/text_size_12" />
+
+            <TextView
+                android:id="@+id/tvMy"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:drawablePadding="@dimen/size_4"
+                android:drawableTop="@drawable/main_tab_my"
+                android:gravity="center"
+                android:padding="@dimen/size_4"
+                android:text="我的"
+                android:textColor="@color/main_tab_text"
+                android:textSize="@dimen/text_size_12" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_tab_saoyisao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:layout_alignParentBottom="true"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="@dimen/size_40"
+                android:layout_height="@dimen/size_38"
+                android:src="@drawable/ic_tab_saoyisao"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/text_size_12"
+                android:textColor="@color/main_tab_text"
+                android:layout_marginBottom="@dimen/size_4"
+                android:text="扫一扫"/>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

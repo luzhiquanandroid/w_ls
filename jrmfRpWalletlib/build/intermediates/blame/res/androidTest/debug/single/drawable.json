@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_w_shape_code_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_w_shape_code_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_w_selector_checked.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_w_selector_checked.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_w_shape_unbind.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_w_shape_unbind.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_rp_shape_normal_blue_round_btn_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_rp_shape_normal_blue_round_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_rp_shape_normal_item_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_rp_shape_normal_item_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_rp_bg_white_round.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_rp_bg_white_round.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_rp_shape_click_item_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_rp_shape_click_item_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_w_shape_default_avatar.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_w_shape_default_avatar.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_b_shape_round_white.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_b_shape_round_white.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_rp_selector_item.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_rp_selector_item.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_b_round_spinner_fade.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_b_round_spinner_fade.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_b_dialog_background.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_b_dialog_background.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_rp_shape_click_blue_round_btn_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_rp_shape_click_blue_round_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_rp_bg_red_round.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_rp_bg_red_round.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_rp_selector_common_btn.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_rp_selector_common_btn.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_w_shape_click_item_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_w_shape_click_item_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_rp_bg_red_click_round.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_rp_bg_red_click_round.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_w_selector_round_btn.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_w_selector_round_btn.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_w_bg_gray_round.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_w_bg_gray_round.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_rp_bg_white_round_stroke.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_rp_bg_white_round_stroke.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_b_selector_cursor.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_b_selector_cursor.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_rp_shape_cursor.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_rp_shape_cursor.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_w_selector_item.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_w_selector_item.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_rp_bg_gray_round.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_rp_bg_gray_round.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_w_shape_click_round_btn_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_w_shape_click_round_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_rp_dialog_paytype_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_rp_dialog_paytype_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_w_selector_forget_pwd.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_w_selector_forget_pwd.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_rp_selector_blue_round_btn.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_rp_selector_blue_round_btn.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_w_shape_normal_item_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_w_shape_normal_item_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_w_shape_normal_round_btn_bg.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_w_shape_normal_round_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\jrmf_w_shape_round_white.xml",
+        "source": "F:\\android_project\\w_ls\\jrmfRpWalletlib\\build\\intermediates\\bundles\\debug\\res\\drawable\\jrmf_w_shape_round_white.xml"
+    }
+]

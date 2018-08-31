@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size_91"
+        android:textSize="@dimen/text_size_21"
+        android:layout_marginLeft="@dimen/size_36"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="设置新登录密码"/>
+
+    <EditText
+        android:id="@+id/et_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/text_hint"
+        android:layout_marginTop="@dimen/size_35"
+        android:layout_marginLeft="@dimen/size_36"
+        android:layout_marginRight="@dimen/size_36"
+        android:textSize="@dimen/text_size_15"
+        android:hint="确认新登录密码"
+        android:background="@null"/>
+    <View
+        android:layout_marginTop="@dimen/size_5"
+        android:layout_marginLeft="@dimen/size_36"
+        android:layout_marginRight="@dimen/size_36"
+        style="@style/line_view_3"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size_42"
+        android:layout_marginLeft="@dimen/size_36"
+        android:layout_marginRight="@dimen/size_36">
+        <EditText
+            android:id="@+id/et_passwordtwo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@color/text_hint"
+            android:textSize="@dimen/text_size_15"
+            android:hint="请输入您的手机号"
+            android:background="@null"/>
+    </RelativeLayout>
+
+    <View
+        android:layout_marginTop="@dimen/size_5"
+        android:layout_marginLeft="@dimen/size_36"
+        android:layout_marginRight="@dimen/size_36"
+        style="@style/line_view_3"/>
+
+    <TextView
+        android:id="@+id/tv_register"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_38"
+        android:layout_marginTop="@dimen/size_36"
+        android:layout_marginLeft="@dimen/size_36"
+        android:layout_marginRight="@dimen/size_36"
+        android:gravity="center"
+        android:background="@drawable/bg_add"
+        android:textColor="@color/white"
+        android:text="完成"/>
+
+</LinearLayout>
